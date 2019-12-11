@@ -3,3 +3,4 @@ env
 .vscode
 .jekyll-metadata
 _site
+Gemfile.lock

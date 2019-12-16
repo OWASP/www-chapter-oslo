@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Norway
 tags: norway
 level: 0
-
 region: Europe
-
-auto-migrated: 1
 
 ---
 
@@ -16,9 +13,7 @@ Welcome to OWASP Norway chapter. Please join our [Meetup group](https://www.meet
 
 ## Next event
 
-#### 11. desember 2019 17:00 - 20:00
-**Location:** Finn.no, Grensen 5-7, Oslo
-**Agenda and registration:** https://www.meetup.com/OWASP-Norway/events/266167858/
+No scheduled events.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums and chapters are free and open to anyone interested in improving application security.

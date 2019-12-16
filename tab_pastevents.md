@@ -1,14 +1,43 @@
 ---
-title: Past events
+title: PastEvents
+displaytext: Past events
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: norway
 ---
 
 ## Past events
 
-### 2019
+### 11. desember 2019, 17:00 - 20:00
+
+**Desembermøte: WebAuthn og Burp-triks**
+
+**Location:** Finn.no, Grensen 5-7, Oslo
+
+**Agenda and registration:** <https://www.meetup.com/OWASP-Norway/events/266167858/>
+
+**WebAuthn: Authentication is now a solved problem! ;)**
+
+U2F, FIDO, FIDO2, CTAP and WebAuthn, what does it all mean?
+We will walk through why WebAuthn is ground breaking and different.
+Why do I think it will change authentication forever. Do we finally have a universal
+and user friendly second factor that can not be phished? Can it really be true?
+What about recovery?
+
+Ståle Pettersen is a developer and security enthusiast with 10+ experience, currently working as Head of Product & Application Security in Schibsted.
+
+[Slides](assets/files/WebAuthn - OWASP Norway - 2019-12-11 - Ståle Pettersen - Published.pdf)
+
+**Burp suite “ninja moves”**
+
+Have you ever had tested a web application that you knew was vulnerable, but you could not figure out how to get Burp to behave the exact way to find or exploit the vulnerability? Maybe you needed to fetch a certain value before you sent out a request through intruder but could not figure out what was wrong with your Burp macro. Or maybe you could not figure out that macro menu in the first place.
+
+In this talk Thomas will show you the secret ninja moves inside of Burp Suite that you wished you knew before you bought that Pro license. This talk is for those who want to take their web application testing to the next level. We will cover the hidden features of intruder, how to test for the newest security flaws and essential plugins that you need to know in order to find that hidden vulnerability in your next penetration testing engagement or bug bounty adventure.
+
+Thomas Gøytil is a former developer turned security professional, specializing in API and web application security. He has over 9 years of experience as a consultant building, breaking and securing web applications. He is working as the Head of Security in Klaveness Digital, a Norwegiain company building intelligent shipping and logistics solutions. Thomas loves to work with developers to find elegant solution to solve hard security problems. When Thomas is not working on the defense for his company, he is working on his offense doing bug bounty or Brazilian Jiu Jitsu.
+
+[Slides](assets/files/Burp suite ninja moves.pdf)
 
 #### Medlemsmøte 19. november 2019 17:00 - 19:00
 

@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Norway
 tags: norway
-level: 0
 region: Europe
 
 ---

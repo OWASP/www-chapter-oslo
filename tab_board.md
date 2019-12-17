@@ -1,5 +1,6 @@
 ---
 title: Board
+displaytext: Board
 layout:  null
 tab: true
 order: 3

@@ -15,7 +15,7 @@ tags: norway
 
 **Location:** Finn.no, Grensen 5-7, Oslo
 
-**Agenda and registration:** <https://www.meetup.com/OWASP-Norway/events/266167858/>
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/266167858/>
 
 **WebAuthn: Authentication is now a solved problem! ;)**
 
@@ -39,120 +39,314 @@ Thomas Gøytil is a former developer turned security professional, specializing 
 
 [Slides](assets/files/Burp suite ninja moves.pdf)
 
-#### Medlemsmøte 19. november 2019 17:00 - 19:00
+### 19. november 2019 17:00 - 19:00
 
-**Sted:** Teknologihuset, Pilestedet 56, Oslo
+**Best practices for securing CI/CD pipeline by Victoria Almazova + lightning talk**
 
-**Påmelding:** <https://www.meetup.com/OWASP-Norway/events/266233553/>
+**Location:** Teknologihuset, Pilestedet 56, Oslo
 
-**Agenda:** <https://www.meetup.com/OWASP-Norway/events/266233553/>
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/266233553/>
 
-#### Medlemsmøte 16. oktober 2019 17:00 - 19:00
+**Best practices for securing CI/CD pipeline - Victoria Almazova**
 
-**Sted:** Miles, Bislettgata 4, Oslo, 6th floor
+DevOps practices are in a place; containers are everywhere, pipelines are flying. We do Agile. We do DevOps. Now we try to follow security practices for protecting the deployed resources, too. This is a reason why DevSecOps is not hype anymore and is gaining more prominence. There is a lot of information about DevSecOps, but how to do it properly? Where to start? What are the best practices?
+In this session, we will walk through an end-to-end scenario where we will deploy infrastructure components securely to Azure using Azure DevOps, Azure Container Registry and security tools. We will build a pipeline with security in mind to protect and detect potential security flows during the build.
 
-**Påmelding:** <https://www.meetup.com/OWASP-Norway/events/265374152/>
+You will learn:
+- How to build end-to-end CI/CD pipeline that builds the application and deploys infrastructure on Azure with security checks for the application, containers and infrastructure;
+- What are the security tools available for CI/CD pipeline and how to implement them in the best way into different Git workflows;
+- Best practices and patterns of building security pipelines.
 
-**Agenda:** <https://www.meetup.com/OWASP-Norway/events/265374152/>
+Security girl in Microsoft with experience more than 13 years in security. She spends all her time working closely with developers and architects to make security built in from design level. She is a big supporter of making security as culture and shifting security to the left thru DevOps. Victoria believes that empowering developers and architects in security tasks by helping with education will increase security level without increasing additional workload.
 
-#### Medlemsmøte 9. april 2019 17:00 - 19:00
+During her free time, she deep dives into Cloud security, development, identity and access management. And of course, she doesn't forget about running, hiking and motorcycles, which are the biggest passion after security.
+
+**Crypto for Pentesters - Tor Erling Bjørstad**
+“A cryptosystem should be secure even if everything about the system, except the key, is public knowledge” (Auguste Kerckhoffs, 1883)
+Modern crypto is actually pretty good. Nobody is going to break RSA or AES by accident on a pentest assignment. Modern crypto is also surprisingly subtle. Even if it says AES on the box, the devil is in the implementation details.
+In this talk, we’ll look at a few common crypto fails, and discuss their exploitability in a practical setting. The goal is to help the audience recognize and avoid common problems that are common in the field.
+
+Tor leads the application security practice at mnemonic. He has been working full-time in software security and cryptography since 2006, at times playing the role of a security champion and defender, at other times as the attacker hunting for ways to break in. Tor holds a Ph.d. in cryptography from the University of Bergen.
+
+The presentations will be held in English.
+
+Pizza and soda will be served at the meetup, sponsored by Microsoft.
+
+A big thanks to mnemonic (https://www.mnemonic.no/) for supporting the OWASP Norway Day 2018 as a platinum sponsor.
+
+### 16. oktober 2019 17:00 - 19:00
+
+**Location:** Miles, Bislettgata 4, Oslo, 6th floor
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/265374152/>
+
+**Securing microservices in a serverless world - Andreas Claesson**
+
+The world of IT is changing with a vast number of services moving from centralised servers to decentralised server providers the likes of Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). With the concept of “serverless”, the services themselves are also becoming decentralised, meaning that they are broken down into smaller pieces called microservices.
+
+In his presentation, Andreas will explore the major benefits of going serverless, the challenges this approach to architecture presents to traditional IT security, and try to answer the question, “so why isn’t serverless super popular yet?”
+
+The presentation is based on an article published in the annual mnemonic Security Report (www.mnemonic.no/securityreport).
+
+Andreas Claesson works at the European IT and information security company mnemonic as a Senior Security Consultant in their Technical Risk Services department. Based in Oslo, his main focus area is security assessments of cloud environments, which requires a different approach compared to traditional IT security. He has a background in software development giving him an extra dimension in his security work.
+
+The presentation will be held in English.
+
+Wraps and soda will be served at the meetup, sponsored by Miles (https://miles.no).
+
+A big thanks to mnemonic (https://www.mnemonic.no/) for supporting the OWASP Norway Day 2018 as a platinum sponsor.
+
+
+### 9. april 2019 17:00 - 19:00
 
 **Sted:** Teknologihuset, Pilestedet 56, Oslo
 
 **Påmelding:** <https://www.meetup.com/OWASP-Norway/events/259385379/>
 
-**Agenda:** <https://www.meetup.com/OWASP-Norway/events/259385379/>
+**Security of Machine Learning - Stian Kristoffersen**
 
-### 2018
+Stian Kristoffersen from Deepinsight will come and talk about security of machine learning. The presentation will be held in English.
 
-#### Medlemsmøte 19. mars 2018 17:00 - 20:00
+Machine Learning (ML) continues to be a trendy tool for many types of problems, including security. But is ML itself secure? This talk will give an introduction to attacks on ML like changing predictions, recovering sensitive information, and stealing someone else's models. Examples include misdirection by changing a few pixels in an image, by using 3D printed models, and by hiding long messages in short sound bites. We will conclude with some current research directions to mitigate these attacks. Prior experience with ML is useful, but not required.
 
-**Sted:*** Teknologihuset, Pilestedet 56, Oslo
+Pizza and soda will be served at the meetup, sponsored by Deepinsight (https://deepinsight.io/).
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/247571296/
-
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/247571296/
+A big thanks to mnemonic (https://www.mnemonic.no/) for supporting the OWASP Norway Day 2018 as a platinum sponsor.
 
 
-#### Medlemsmøte 9. april 2018 17:00 - 20:00
+### 20. november 2018 - OWASP Norway Day 
 
-**Sted:** Teknologihuset, Pilestedet 56, Oslo
+Full day conference: https://owaspnorwayday.org
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/248655998/
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/248655998/
+### 9. april 2018 17:00 - 20:00
 
-#### OWASP Norway Day 20. nov 2018
+**Sikkerhetssvakheter i norske nettjenester - Roy Solberg / Hallvard Nygård**
 
-Full day conference: https://owaspnorwayday.org/
+**Location:** Teknologihuset, Pilestedet 56, Oslo
 
-### 2017
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/248655998/
 
-== Medlemsmøter ==
+Vi får besøk av Roy Solberg og Hallvard Nygård, som uavhengig av hverandre har avdekket og publisert svakheter ved norske nettjenester.
 
-#### Medlemsmøte 28. september 2017 17:15 - 20:15
+Matsponsor: Oslo Market Solutions (https://oms.no)
 
-**Sted:** mnemonic AS, Wergelandsveien 25, Oslo
+Roy Solberg
+Roy Solberg har den siste tiden avdekket en rekke sikkerhetshull i norske tjenester og nettsider. Han tar oss gjennom motivasjonen ved å gå offentlig ut og publisere sikkerhetshullene og hvordan hele reisen har vært. Vi får mer detaljer om noen utvalgte sikkerhetshull - også noen hittil upubliserte. I tillegg får du høre mer om hva som er de oftest observerte svakhetene - slik at du selv kan unngå å bli en sak på bloggen hans.
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/243307080/
+Om Roy Solberg:
+Roy Solberg jobber til daglig som mobilutvikler i NorApps AS. Der jobber han med en av verdens mest populære fotball-apper - FotMob. Før dette jobbet han 10 år som IT-konsulent.
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/243307080/
+Hallvard Nygård
+Hvis din REST-tjeneste er på Internett, så bør du forvente at noen aksesserer den direkte med alternative parametre. Hallvard Nygård ønsket å undersøke egne data samlet inn av Æ-appen til Rema 1000, men fant alle sine data. I 2 uker var handledata for opptil 500000 kunder tilgjengelig for alle med en nettforbindelse. Security by obscurity.
 
-#### Medlemsmøte 12. juni 2017 17:00 - 20:00
+I denne presentasjon vil Hallvard vise hvordan Æ-appen ble undersøkt med Mitmproxy (Man-in-the-middle proxy) og Curl. Han vil fokusere på hva vi kan lære av dette og hvordan du kan undersøke og sikre din egen app/backend.
 
-**Sted:** Simula, Ole-Johan Dahls hus, Gaustadaleen 23B, Oslo
+Videre vil vi ta en titt på andre tjenester hvor utvikling og integrasjoner har gått galt og data/persondata har blitt eksponert. Et skybasert helseregister, en eiendomstjeneste og en kundeportal (sikkerhet i Javascript!). Hva eier du av boliger? Hvordan ser lånehistorikken (pant) din ut? Tvangsforretning? Hvilke enheter finnes i hjemmet ditt? Hvilke OS kjører de? Dataregistre på nett er skumle greier...
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/238611471/
+Om Hallvard Nygård:
+Utvikler. Koder ofte på front-end, men sørger også for å sikre backenden. Sjekker sikkerheten i din applikasjon på fritiden.
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/238611471/
+### 19. mars 2018 17:00 - 20:00
 
-#### Medlemsmøte 22. mai 2017 17:00 - 19:00
+**Location:*** Teknologihuset, Pilestedet 56, Oslo
 
-**Sted:** Microsoft Norge, Lysaker Torg 45, Oslo
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/247571296/
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/239636226/
+**#WatchOut - Serious vulnerabilities in smart watches for children**
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/239636226/
+In October 2017, the Norwegian Consumer Council (Forbrukerrådet) and mnemonic published the #WatchOut campaign, revealing severe security flaws in smart GPS watches marketed towards children and parents. Among other things, it was shown that it was possible for an unauthorized party to:
 
-#### Medlemsmøte 30. mars 2017 17:00 - 19:00
+- take control of the watch through the companion app,
+- eavesdrop on and communicate with the child without the parent knowing,
+- track the child's movements, and also make it look like the child is somewhere he or she is not,
 
-**Sted:** Bouvet, Sørkedalsveien 8, Oslo
+In some cases, user-generated data was also being insecurely transmitted and stored. In one case, data such as voice messages was found stored on an unprotected cloud server.
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/238542931/
+#WatchOut had a global spread and impact. It received coverage all over the world in outlets like the BBC, CBS, Good Morning America, Business Insider, The Telegraph, and Newsweek. This led to complaints being filed towards the US Federal Trade Commission (FTC), and some retailers pulling the devices from their shelves. It has also lead to smart watch vendors making extensive changes to their products.
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/238542931/
+Harrison Sand and Tor E. Bjørstad from mnemonic will go deeper into the technical details of the #WatchOut research and analysis, and how the technical assessments were carried out.
 
-#### Medlemsmøte 26. januar 17:00 - 19:30
+We will also discuss events in the aftermath of the campaign, concerns relating to vulnerability disclosure, and our general concerns related to securing the Internet of Things.
 
-**Sted:** Teknologihuset
+Links:
+https://www.forbrukerradet.no/side/significant-security-flaws-in-smartwatches-for-children
+https://www.forbrukerradet.no/side/critical-security-flaws-remain-in-smartwatches-for-kids/
+https://www.mnemonic.no/watchout
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/236787346/
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/236787346/
+### 28. september 2017 17:15 - 20:15
 
-### 2016
+**Location:** mnemonic AS, Wergelandsveien 25, Oslo
 
-== Medlemsmøter ==
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/243307080/
 
-#### Medlemsmøte 30. november 17:00 - 19:30
+**Software security in theory and practice - BSIMM and more**
 
-**Sted:** Domus Nova auditorium 7, St. Olavs plass 5, Oslo 
+Nick Murison will give a talk on the Building Security In Maturity Model (BSIMM) for secure software development.
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/235670341/
+Abstract: The Building Security In Maturity Model (BSIMM) (http://bsimm.com/) is a unique tool built from an observation-based approach to capturing the collective activities of diverse software security initiatives. We initiated data gathering and analysis in 2008 with nine firms. There are now over 100 participant organisations in BSIMM, and we have measured many of these organisations more than once. Though secure software initiatives differ, all share common ground. BSIMM captures and describes this common ground. It therefore functions as universal yardstick, capable of measuring any software security initiative and facilitating strategic planning for ongoing software security improvement. This talk will provide an introduction to the model, how you can apply it to your organisation, and what benefits you can achieve in measuring your initiative. It will also provide a sneak preview of BSIMM8, the latest version of the model.
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/235670341/
+About the speaker: Nick Murison is a Managing Consultant in Synopsys’ Software Integrity Group, and the European lead for BSIMM. His primary responsibility is the successful delivery of software security services to Synopsys’ clients across multiple industry verticals in Northern Europe. Nick holds a MSc in Information Security from Royal Holloway, University of London.
 
-#### Medlemsmøte 1. november kl 18:00 - 20:00
+In addition, we've scheduled two shorter talks.
 
-Se http://www.meetup.com/OWASP-Norway/events/234968368/ for detaljer
+Jøran Lillesand will give a short presentation on practical experiences with running a software security programme, based on ongoing work at Digipost (https://www.digipost.no/sikkerhet). This talk will be held in Norwegian.
 
-#### Medlemsmøte 24. august kl 16:30 - 19:00
+Patricia Aas will give a short presentation on her recent experiences with the security of the Norwegian election system (http://www.vg.no/nyheter/meninger/stortingsvalget-2017/kampanjen-funket/a/24136153/).
 
-**Sted:** SpareBank1, Hammersborggata 2, Oslo
+### 12. juni 2017 17:00 - 20:00
 
-**Påmelding:** https://www.meetup.com/OWASP-Norway/events/232698579/
+**Location:** Simula, Ole-Johan Dahls hus, Gaustadaleen 23B, Oslo
 
-**Agenda:** https://www.meetup.com/OWASP-Norway/events/232698579/
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/238611471/
+
+**Talks by Troy Hunt and Scott Helme and lightning talk by Per Thorsheim**
+
+**Troy Hunt**
+What motivates attackers to dump data publicly? How is it sold, traded and redistributed and for that matter, what even causes people to go public with it? These are all questions I’ve dealt with over the years running the ethical data breach search service “Have I been pwned”. It’s also given me the opportunity to interact with everyone from the attackers breaching these systems to the impacted organisations to law enforcement agencies.
+
+In this talk, I’ll share the lessons learned from working with billions of publicly dumped records as a result of major data breaches. The talk sheds light on how this class of adversary operates and the weaknesses within organisations they continually manage to exploit. It’s a unique inside look at security from a very real world and very actionable perspective.
+
+About the speaker
+
+Troy Hunt is an Australian Microsoft Regional Director and Microsoft MVP for Developer Security since 2011. Troy is a Pluralsight author of many top-rated courses on web security, and known for his work on "Have I been pwned?" - a free service that aggregates data breaches and helps people establish if they've been impacted by malicious activities on the web.
+
+**Scott Helme**
+The certificates we obtain from a Certificate Authority underpin trust on the web. The problem is that if we lose the key for our certificate an attacker can use that certificate to successfully impersonate us for as long as it's valid, potentially years. We need a way to revoke the trust in these certificates so that they can't be abused but all current revocation mechanisms are largely useless. Let's look at the new mechanisms being introduced to address the problem of revocation. Per Thorsheim
+
+**Per Thorsheim**
+Lightning talk: "From security to safety - when consequences become real"
+
+
+### 22. mai 2017 17:00 - 19:00
+
+**Location:** Microsoft Norge, Lysaker Torg 45, Oslo
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/239636226/
+
+**SDLC at Visma + The keys to the cloud at Microsoft**
+
+17:15-18:00 Practical implementation of a Security Program focused on AppSec in a large provider and consumer of WebServices
+Espen Agnalt Johansen - Operations & Security Manager at Visma R&D
+
+18:15-19:00 The keys to the cloud: Use Microsoft identities to sign in and access API from your mobile and web apps after Microsoft Build 2017
+
+Microsoft identities are the entry point for every Microsoft cloud API and a large ecosystem of SaaS apps. Join the 150,000 apps active today in Azure Active Directory, making your apps available to more than 100M active business users! Based on the same enterprise-grade infrastructure, Azure AD B2C provides to your apps their own hosted identity system – offering social providers integration, local accounts, and advanced customization you can add to your app in minutes. Attend this session and learn how you can easily integrate with Microsoft identities in your mobile and web apps, thanks to the new MSAL libraries. Build a data-rich application thanks to the power of Microsoft Graph API and the rich data about users, groups, mail, calendar, docs, and more.
+
+Vittorio Bertocci is Principal Program Manager in the Windows Azure Active Directory team, where he looks after Developer Experiences in Windows Azure Authentication Library (ADAL), OWIN, JWT Handler, WIF, the development aspects of Windows Azure Active Directory & ACS, and a lot of other things he can’t tell you about. Vittorio holds a master degree in Computer Science, and worked in the software industry for two decades. He devoted the last 10 years to distributed systems, identity management and the promotion of claims-based approaches with Fortune & Global 100 companies. In the last five years his duty brought him to speak about identity in 23 countries and 4 continents. Vittorio is a regular speaker at conferences such as BUILD, Microsoft PDC, TechEd USA, TechEd Europe, TechEd Australia, TechEd New Zealand, TechEd Japan, TechDays Belux, Gartner Summit, European Identity Conference, IDWorld, OreDev, NDC, IASA, Basta and many others.
+
+Vittorio is a published author, both in the academic and industry worlds, and wrote many articles and papers. He wrote Programming Windows Identity Foundation (Microsoft Press, 2010), is co-author of A Guide to Claims-Based Identity and Access Control (Microsoft Press, 2010), and Understanding Windows Cardspace (Addison-Wesley, 2008). He is a prominent authority/blogger on identity, Windows Azure, .NET development, and related topics, and shares his thoughts at www.CloudIdentity.com.
+
+Microsoft is sponsoring the event with food and soft drinks
+
+### 30. mars 2017 17:00 - 19:00
+
+**Location:** Bouvet, Sørkedalsveien 8, Oslo
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/238542931/
+
+**#ToyFail: Is you child safe from the Internet of Things?/Broken Crypto is Broken**
+
+Pizza will be served from 17:00. Thanks to Bouvet for hosting the meetup and sponsoring the pizza!
+
+**#ToyFail: Is you child safe from the Internet of Things?**
+
+Martin Gravråk - Software Developer & Kristian Løken Wille - IT Consultant @ Bouvet
+
+Security and Privacy are two major concerns with the Internet of Things, and are especially important when children are involved. In this session, we’ll tell you what happened when the Norwegian Consumer Council asked us to investigate the inner workings of a selection of internet connected toys. Our findings shocked both us and our customer, and lead to worldwide media coverage. We’ll share our methods for testing the toys, and show you examples of what we found. You’ll also learn about various techniques for finding out how secure your own devices are, what these devices know about you and where this information ends up. There will be demonstrations on how we use tools like Fidder, WireShark and Decompilers, there will be movies and there will be toys!
+
+The talk will be held in norwegian.
+
+**Broken crypto is broken**
+
+Erlend Oftedal
+
+We using an increasing amount of crypto in our code to protect our assets. However we can easily go wrong if we don't know how to use it correctly. In this talk we will look at what can go wrong when crypto is used the wrong way. We will NOT dive into the algorithms themselves, but look at what the different primitives give us and what happens when our expectations are wrong.
+
+
+### 26. januar 2017 17:00 - 19:30
+
+**Location:** Teknologihuset
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/236787346/
+
+**Bug bounties with Frans Rosén**
+
+Bug bounties – What, how and why?
+
+Going through the current state of bug bounties, what is it really? How do you start, and why? Frans will give some insights being one of the top ranked hackers on HackerOne and Bugcrowd and will share some advices on getting started together with some examples of fun bugs.(30 min)
+
+DNS hijacking using cloud providers – no verification needed
+
+A few years ago, Detectify did a blog post regarding domain hijacking using services like AWS, Heroku and GitHub. These issues still remains and are still affecting a lot of companies and there are many tools to find these vulnerabilities that have popped up after this went public.
+
+However, there are many more ways to hijack domains, nameservers and DNS-providers. The tools out there are missing these cases completely. Frans will go through both the currently disclosed and the non-disclosed ways to take control over domains and will share the specific techniques involved.(50 min)
+
+Frans Rosén is a knowledge advisor at Detectify and also spends a lot of his time doing bug bounties, and let's just say he is quite successful at that.
+
+Big thanks to Schibsted Products & Technology for sponsoring pizza for the meeting
+
+
+### 30. november 2016 17:00 - 19:30
+
+**Location:** Domus Nova auditorium 7, St. Olavs plass 5, Oslo 
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/235670341/
+
+17:00-17:30 - Pizza sponsored by Microsoft
+
+17:30-18:15 - The Cyber Threat Intelligence Matrix: A simple incident response decision model
+
+Speaker: Frode Hommedal (https://4sics.se/speakers/frode-hommedal.html)
+
+Frode Hommedal is a senior incident responder and threat analyst. He is currently head of incident response and security analysis at Telenor CERT, where he’s part of the team that is establishing the global CERT/SOC capability of Telenor, Norway’s biggest telco. He has previously worked seven years for the Norwegian national CSIRT, NorCERT. One of Frode’s main interests is to model CSIRTs to improve efficacy and performance.
+
+18:15-19:00 - The downloaders ("Nedlasterne")
+
+Speaker: Einar Otto Stangvik (https://www.linkedin.com/in/einaros)
+
+Einar is working with journalism research and data security in Verdens Gang (VG). “Nedlasterne” (the downloaders) is now a three years old project. In this presentation Einar summes up the (interdisiciplinary) techniques and experiences used to expose the downloaders.
+
+### 1. november 2016 kl 18:00 - 20:00
+
+**Location:** mnemonic, Wergelandsveien 25, Oslo
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/234968368/
+
+**Personal security**
+
+You are one of the most significant security threats to your company. We all know we are going to fix better passwords / encryption / firewalls / etc. one day. Getting properly hacked is one of those things that is a lot more comfortable to prevent beforehand than to gather the shattered pieces afterwards. In this talk, we will take a practical approach to good personal digital security. We will start with the easy parts before drilling through the layers of security, down to the parts that are unpredictable and dangerous. Bring your laptop and a tin foil hat.
+
+Topics include: What it's like to get properly hacked. Using password managers. Operating system security. Browser security. Encryption, firewalls, factors, and other means of protection.
+
+Michael Johansen is a software consultant at Knowit during the day and a startup founder during the night. At NTNU I studied entrepreneurship, computer science and psychology. During my studies I also took a year off to be a board member at NTNU's Board of Directors. As part of my startup venture I've gotten first-hand experience with the startup scene in both Boston and in Silicon Valley. Humans and machines are the two things that interest me the most. I'm a bit systematic.
+I care more than most people about personal security, and it's a topic on which I'd like to share my insights.
+
+**Hacking with Hardware: Tools for Physical Intrusion and Persistent Network Access**
+
+Reading about the latest zero-day vulnerabilities can be fun (or scary), but what about known vulnerabilities from years or even decades ago? When it comes to technologies like USB, wireless mice and access cards, many old vulnerabilities are still around, largely ignored in risk assessments and easier than ever to exploit in style, due to the availability of versatile, low-cost hardware gadgets. If humans are tool-using animals, hackers are gadget-using humans.In this presentation attendees will see examples of real physical and short range wireless attacks that will work against most organizations to bypass security controls and gain persistent physical access to the target facility and its network. Yes, billions of people can attack you from the Internet—that doesn’t mean you should forget about the ones who walk through the front door.
+
+Ryan Mattinson is a penetration tester and managing consultant in KPMG Norway's cyber defence practice. He will share stories from the trenches and introduce some of his favorite gadgets anyone can buy online or easily build at home to get into a target organization's buildings and onto their network.
+
+### 24. august 2016 kl 16:30 - 19:00
+
+**Location:** SpareBank1, Hammersborggata 2, Oslo
+
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/232698579/
+
+**Generalforsamling og medlemsmøte - social engineering**
+
+Amateurs hack systems, professionals hack people. — Bruce Schneier
+
+24. august handler om social engineering! Først kan du være med og hacke OWASP Norway Chapter gjennom vår generalforsamling, med godkjenning av nytt styre. Så vil foredragsholder Kai Roer ta oss på en reise inn i de psykologien som gjør oss mennesker så enkle å hacke, og hvordan personlighetstypene vi finner i virksomheten påvirker sikkerheten. Hva hjelper vel tofaktorautentisering, om full tilgang er en telefonsamtale unna?
+
+Det er mulig å møte opp direkte til pizza og medlemsmøte.
+
+Agenda:
+- 16:30-17:00 Generalforsamling - godkjenning av nytt styre
+- 17:00-17:30 Pizza
+- 17:30-19:00 Social Engineering and The Psychology of Security / Kai Roer
 
 **Generalforsamling 2016 - referat**
 
@@ -181,42 +375,105 @@ Valgkomite:
 
 **Godkjent ved akklamasjon**
 
-#### Medlemsmøte 18. april kl 18:30 - 20:00
+### 7. juni 2016 kl 17:00 - 19:00
 
-**Sted:** Schibsted Products & Technology, Apotekergata 10, Oslo
+**Location:** Oslo Spectrum
 
-**Påmelding:** http://www.meetup.com/OWASP-Norway/events/230205922/ eller send epost til josteitv@gmail.com
+**Meetup event:** https://www.meetup.com/OWASP-Norway/events/231166845/
 
-**Agenda:** http://www.meetup.com/OWASP-Norway/events/230205922/
+**NDC Community Tuesday**
 
-Presentasjoner:
-* Marie Moe: [Med hjertet på Internett](assets/files/2016-04-18-OWASP-Oslo-til-publisering.pdf)
-* Preben Gustavsen: [Informasjonssikkerhet og medisinteknisk utstyr](assets/files/OWASP_18_4_2016.pdf)
+NB! Du må også melde deg på her (gratis): https://www.eventbrite.com/e/ndc-community-tuesday-2016-tickets-24643781213
 
-#### Medlemsmøte 16. mars kl 18:00 - 20:00
-**Sted:** Brønnøysundregistrene sine lokaler, Grev edels plass 9, 2 etasje
+NDC have graciously allowed us to borrow some speakers as a part of NDC Community Tuesday.
 
-**Påmelding:** http://www.meetup.com/OWASP-Norway/events/229436674/ eller send epost til a.r.thorsen@fsat.no
+**17:30 - 18:15 - Moriarty Hacking i 2016 - Chris Dale**
 
-**Agenda:** http://www.meetup.com/OWASP-Norway/events/229436674/
+Your solution is deployed in the cloud, it should be secure. After all, it only exposes a simple login field, and it has already been scrutinized by penetration-testers for vulnerabilities. It should be safe… But it wasn’t! You still got owned, and you got owned BIG TIME! This talk will show how a criminal advances through a seemingly hardened solution, fully compromising the solution. The talk will demonstrate how the attacker takes over a customers entire domain, but also how the attacker is able to in fact compromise the cloud solution itself. Attacking the IaaS infrastructure provider
 
-### 2015
+**18:15 - 19:00 - CSP: RIP XSS - Christian Wenz**
 
-#### Medlemsmøte 19. november kl 17:00 - 19:00
+Cross-Site Scripting is one of the main risks for web applications - a position it holds since over a decade! With Content Security Policy, this threat may finally find its end. The W3C standard provides techniques to close many XSS vectors, offers fine-grained control over the security limitations you impose, and enjoys a decent browser support. We will show what CSP is capable of, focusing on new features in CSP 2, and also discuss how you may need to refactor your website.
+
+### 18. april 2016 kl 18:30 - 20:00
+
+**Location:** Schibsted Products & Technology, Apotekergata 10, Oslo
+
+**Meetup event:** http://www.meetup.com/OWASP-Norway/events/230205922/
+
+**OWASP temamøte om sikkerhet i medisinsk-teknisk utstyr**
+
+Takk til Schibsted Products & Technology som sponser mat og møtelokale!
+
+**Marie Moe: Med hjertet på Internett - Sikkerhet i det medisinske IoT**
+
+Om foredraget
+Vår avhengighet av systemer som styres av programvare øker raskere enn vår evne til å sikre systemene. Når alle våre ”dingser” kobles på nett øker angrepsflaten og våre verdier blir sårbare for hacking. Dette utgjør ikke bare en trussel mot informasjonssikkerhet og personvern; også menneskers liv og helse trues når dingser som kan påvirke fysiske systemer i økende grad kobles opp mot Internett. Marie Moe er avhengig av et medisinsk implantat, en pacemaker som sørger for at hjertet hennes slår og som holder henne i live. Som sikkerhetsekspert ønsket hun å finne ut mer om informasjonssikkerheten i denne datamaskinen inne i sin egen kropp. Hun fant den tekniske manualen til pacemakeren og ble overrasket over å få vite at den hadde funksjonalitet for kobles til et medisinsk “Internet of Things”. Programvaren i pacemakeren og enhetene som den kunne kommunisere trådløst med var proprietær og utilgjengelig. Marie startet derfor et hacking-prosjekt for å finne ut av sikkerheten i sin egen personlige kritiske infrastruktur.
+
+Om foredragsholderen
+Marie Moe har en mastergrad i matematikk/kryptografi, samt en doktorgrad i informasjonssikkerhet. Marie har erfaring som seksjonsleder ved NSM NorCERT, Norges nasjonale senter for håndtering av alvorlige dataangrep. Hun jobber i dag som forsker innen informasjonssikkerhet ved SINTEF IKT, og underviser ved NTNU. På fritiden er Marie engasjert i grasrot-organisasjonen ”I Am The Cavalry”.
+
+[Med hjertet på Internett](assets/files/2016-04-18-OWASP-Oslo-til-publisering.pdf)
+
+**Preben Gustavsen: Bruk av medisinsk teknisk utstyr (MTU) i helsesektoren**
+
+Om foredraget
+Helsetjenesten støtter seg i økende grad til teknologi og utviklingen viser at teknologien kommer tettere på pasienten. Ved bruk av medisinsk teknisk utstyr (MTU) gjelder høye kvalitetskrav for å sikre presise diagnoser eller korrekte måleresultater. Siden informasjonen som behandles ofte er sensitive personopplysninger stilles også strenge krav til informasjonssikkerhet. I enkelte tilfeller er pasienters helse direkte avhengig av velfungerende MTU.
+
+Krav til informasjonssikkerhet endres når MTU tilpasses en moderne infrastruktur med integrasjoner både for å effektivisere pasientbehandlingen og for å gi helsepersonell bedre støtte. Samtidig øker pasienters forventning til helsetjenestens bruk av moderne teknologi.
+
+I en slik situasjon er det flere forhold som påvirker det totale sikkerhetsnivået. I dette foredraget vil jeg peke på noen generelle faktorer som påvirker det totale sikkerhetsnivået i MTU, som:- Forholdet til nasjonale og internasjonale leverandører- Utfordringer og muligheter når helsepersonell blir entreprenører- Avhengighet mellom programvare, operativsystem og tilstøtende programvare- Behov for infrastruktur som kan støtte en bred tjenesteportefølje
+
+Avslutningsvis vil jeg knytte behov for informasjonssikkerhet opp mot spørsmål om pasientsikkerhet og forvaltning av MTU.
+
+Om foredragsholderen
+Preben Gustavsen har ca 15 års erfaring med risiko ved bruk av teknologi fordelt på roller som rådgiver innen styring og kontroll, programmerer, systemutvikler, sikkerhetsarkitekt og revisor. Preben er bachelor of IT fra Queensland Univeristy of Technology og har utdanning fra tidl. Polytekniske Høgskole. Nå er Preben rådgiver innen informasjonssikkerhet og internkontroll i Sopra Steria.
+
+[Informasjonssikkerhet og medisinteknisk utstyr](assets/files/OWASP_18_4_2016.pdf)
+
+### 16. mars 2016 kl 18:00 - 20:00
+
+**Location:** Brønnøysundregistrene sine lokaler, Grev edels plass 9, 2 etasje
+
+**Meetup event:** http://www.meetup.com/OWASP-Norway/events/229436674/
+
+Takk til Brønnøysundregisterne som stiller med lokaler og takk til Sopra Steria som sponser pizza til møtet!
+
+**Biometrisk autentisering: God (?) UX, men lett å gjøre UX/sikkerhetsfeil**
+
+Ingress: Per Thorsheim ventet i 1 år, 3 måneder og 12 dager på sitt biometriarmbånd. Det tok <1 time å finne svakhetene. Biometrisk autentisering har lenge blitt spådd til å skulle erstatte passord, men sannheten er biometri fortsatt lider sterkt av barnesykdommer. Presentasjonen vil vise 3 ulike produkter hvor biometri ødelegger UX og sikkerhet, og hva som kan og bør gjøres for å gjøre ting skikkelig. Bio: Per Thorsheim er selvstendig sikkerhetsrådgiver i Bergen. Han driver PasswordsCon, han fikk verden til å ta i bruk RFC 3207, og han hjalp Facebook med å få på plass PGP støtte. Han tror at bedre sikkerhet kan oppnås gjennom bedre brukervennlighet.
+
+https://godpraksis.no/
+https://linkedin.com/in/thorsheim
+
+**With a little help from my friends, .... en tilnærming til fullskala krise og beredskapsøvelser**
+Case : Øvelse "Beneth the cover, høst 2014"
+Ingress: Raymond Hagen, 36 år. Sikkerhetsansvarlig for Altinn hos Brønnøysundregistrene. Er også stabsoffiser i lokalt Heimevernsområde.
+Har en akademisk bakgrunn fra sikkerhet knyttet til infrastruktur og utvikling, men arbeider mye for tiden hendelseshåndtering, dokumentasjon og beredskap. Har sterke interesser for kultur og historie, samt benytter mye tid til å reise litt utenfor «allfarvei»
+
+**Paneldebatt**
+Ordstyrer: Erlend Oftedal
+Deltakere: Runa Sandvik, Per Thorsheim, Raymond Hagen
+Vi benytter Slido til å sende inn spørsmål til paneldebatte. Dette er et verktøy hvor man kan sende inn spørsmål til panelet og stemme opp eksisterende spørsmål man ønsker debatt om. Det er lurt å tenke igjennom spørsmål til panelet på forhånd. Pin kode til Slido blir gitt på oppmøte.
+
+Runa A. Sandvik is a privacy and security researcher, working at the intersection of technology, law and policy. When she is not hacking rifles (https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/) or writing articles for Forbes (https://www.forbes.com/sites/runasandvik/), she teaches digital security to journalists and helps media organizations improve their security posture.
+
+
+### 19. november 2015 kl 17:00 - 19:00
 **Sted:** Rom Alfa & Omega, ved Norsk Regnesentral, NR ligger i 4. etasje av Kristen Nygaards hus, Gaustadalleen 23a, 0373 Oslo - også kjent som "det gamle IFI-bygget" på OiU
 
 **Påmelding:** http://www.meetup.com/OWASP-Norway/events/226703923/ eller send epost til asmund.skomedal@nr.no
 
 **Agenda:** http://www.meetup.com/OWASP-Norway/events/226703923/
 
-#### Medlemsmøte 16. september kl 17:00 - 19:30
+### 16. september 2015 kl 17:00 - 19:30
 **Sted:** Teknologihuset Pilestredet 56, Oslo, store salen
 
 **Påmelding:** http://www.meetup.com/OWASP-Norway/events/225200078/ eller send epost til a.r.thorsen@fsat.no
 
 **Agenda:** http://www.meetup.com/OWASP-Norway/events/225200078/
 
-#### Medlemsmøte 7. mai kl 17:30 - D-Fens
+### 7. mai 2015 kl 17:30 - D-Fens
 
 **Sted:** Forskningsveien 3b, Oslo
 
@@ -251,11 +508,12 @@ Valgkomite:
 
 Erlend presenterte Trello som et verktøy for styremedlemmene å organisere fremtidige medlemsmøter og foreslo Teknologihuset som fast møtested.
 
-### 2014
+### 26. juni 2014 kl 17:00 
 
-#### Medlemsmøte: Torsdag 26. juni kl 17:00 
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
+
 **Sponsor:** N/A
+
 **Adresse:** Teknologihuset, Pilestredet 56
 
 Agenda: Hacking with Unicode
@@ -272,7 +530,7 @@ This presentation explores common mistakes made by programmers when dealing with
 
 **Speaker: Mathias Bynens** is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance, and security. At Opera Software he’s a member of the Developer Relations team.
 
-#### Medlemsmøte: Mandag 3. mars kl 16:00 
+### 3. mars 2014 kl 16:00 
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
 **Sponsor:** N/A
 **Adresse:** Teknologihuset, Pilestredet 56
@@ -285,11 +543,12 @@ Einar Otto Stangvik kommer for å snakke om usikkert.no som er en søkemotor for
 
 Full agenda og beskrivelse kommer litt senere.
 
-### 2013
+### 7. februar 2013 kl 17:00 
 
-#### Medlemsmøte: Torsdag 7. februar kl 17:00 
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
+
 **Sponsor:** Bouvet og Secode
+
 **Adresse:** Bouvet, Sandakerveien 24
 
 Agenda: Crossing Origins by Crossing Platforms
@@ -311,11 +570,12 @@ In a heterogeneous system like the web, information is exchanged between compone
 
 **Jonas Magazinius** is a PhD student in the Language-based Security group at Chalmers University of Technology. The focus of his research is information-flow in mash-up web applications. Jonas is specialized in web application security, but is interested in most aspects of security. When not immersed in JavaScript, Jonas helps organize events in the OWASP Gothenburg chapter.” 
 
-### 2012
+### Mandag 18. oktober 2012 kl 17:00 
 
-#### Medlemsmøte: Mandag 18. oktober kl 17:00 
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
+
 **Sponsor:** Bekk
+
 **Adresse:** Bekk Consulting AS
  
 * 17:00-17:45 - Secure electronic voting? - Security assessment of the E-valg system - Emilie og Fredrik fra Combitech
@@ -332,9 +592,12 @@ This presentation will be in English
 
 Utnyttelse av sårbarheter i Java er i ferd med å bli blant de vanligste metodene for en angriper å ta over en PC. Samtidig surfer de fleste av oss på nettet med Java-applets aktivert i nettleseren. Kan man stole på at sandkasseteknologien gjør nettsurfing trygt? Denne lyntalen prøver å gi svar på hvorfor utnytting av Java-sårbarheter nå er i vinden, og du vil få se både angrepskode og en demonstasjon på hvordan et sikkerhetshull i Java kan utnyttes. 
 
-#### Medlemsmøte: 24. april, kl 19:30
+### 24. april 2012, kl 19:30
+
 **Ansvarlig:** Erlend Oftedal
+
 **Sponsor:** -
+
 **Adresse:** Mesh Norway, Tordenskiolds gate 3
 
 Tema denne gang er sikkerhet i mobile applikasjoner. Det blir først en introduksjon, deretter kommer
@@ -345,9 +608,12 @@ Slides:
 - [OWASP Mobile Top 10](assets/files/Mobil_-_Introduksjon_til_applikasjonssikkerhet.pdf) - Ståle Pettersen
 - [OWASP Mobile](assets/files/OWASP-mobile_aps.pdf) - Martin Knobloch
 
-#### Medlemsmøte: 19. mars, kl 17:00
+### 19. mars 2012, kl 17:00
+
 **Ansvarlig:** Erlend Oftedal
+
 **Sponsor:** F5
+
 **Adresse:** The Dubliner
 
 **"Web Application Access Control Design Excellence"**, Jim Manico
@@ -360,11 +626,12 @@ activity based, configurable, flexible, and deny-by-default - among other positi
 web-based access-control mechanism.
 
 
-### 2011
+### 30. november 2011 kl 18:30
 
-#### Medlemsmøte: 30. November kl 18:30 - 
 **Ansvarlig:** Erlend Oftedal
+
 **Sponsor:** TBA
+
 **Adresse:** Hackeriet at Hausmannsgate 34, Oslo
 
 **Agenda:** Shodan
@@ -388,9 +655,12 @@ Eireann Leverett spent six months working with 'Shodan the computer
 search engine'. It's an under-rated tool that was developed by John
 Matherly. John has given you a surprisingly big gift, why not learn to use it?
 
-#### Medlemsmøte: Torsdag 27. oktober kl 17:00 - 19:00 
+### 27. oktober 2011 kl 17:00 - 19:00 
+
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
+
 **Sponsor:** Universitetet i Oslo
+
 **Adresse:** Universitetet i Oslo Forskningsveien 3B
 
 Agenda:
@@ -399,10 +669,12 @@ Agenda:
 * 17:45-18:15 Pause m pizza
 * 18:15-19:00 AppSensor - Jøran Lillesand - Hvordan kan man gjøre applikasjonen selv i stand til å skjønne når den er under angrep? Og hva kan den gjøre med det?
 
-#### Medlemsmøte: Tirsdag 21. juni kl 17:00 - 19:00 
+### 21. juni 2011 kl 17:00 - 19:00 
 
 **Ansvarlig:** Erlend Oftedal, tel: 98219335
+
 **Sponsor:** BEKK
+
 **Adresse:** Akershusstranda 21, Vippetangen
 
 Agenda:
@@ -411,10 +683,12 @@ Agenda:
 * 18:15-19:00 "Endpoint security & mobility" - Carsten Maartmann-Moe
 "An adversary's physical access to a mobile device often makes existing security controls fail - why? This speaking session will demonstrate creative methods to exploit endpoints - that is, mobile units. It will include hands-on demonstrations of coldboot attacks, hacking through FireWire and how to locate encryption keys in mobile device RAM. Potential countermeasures are outlined, and we'll focus on why end point security is important - and difficult."
 
-#### Generalforsamling: Torsdag 12. mai kl 17:00 - 17:15 
+### Generalforsamling: 12. mai 2011 kl 17:00 - 17:15 
 
 Ansvarlig: Kåre Presttun, tel: 4100 4908
+
 Sponsor: mnemonic as
+
 Adresse: Wergelandsveien 25
 
 Agenda:
@@ -448,10 +722,12 @@ Kåre Presttun
 Leder
 OWASP Norway Chapter
 
-#### Medlemsmøte: Torsdag 12. mai kl 17:15 - 19:15 
+### 12. mai 2011 kl 17:15 - 19:15 
 
 Ansvarlig: Kåre Presttun, tel: 4100 4908
+
 Sponsor: mnemonic as
+
 Adresse: Wergelandsveien 25
 
 Slides:
@@ -501,10 +777,13 @@ invoked the HTML5 security cheat-sheet and maintains the PHPIDS filter rules. In
 security consultancy for larger German and international companies. He is also one of the co-authors of Web Application
 Obfuscation: '-/WAFs..Evasion..Filters/
 
-#### Medlemsmøte tirsdag 22. mars kl 16:00 -->
+### 22. mars 2011 kl 16:00
+
 
 Ansvarlig: Kåre Presttun
+
 Sponsor: [Communities in Action 2011](https://wiki.cantara.no/display/PE/Communities+in+action+2011)
+
 Adresse: Radisson Blu Hotel, Holbergsgt. 30
 
 Dette møtet er i samarbeid med Communities in Action 2011. OWASP Norway Chapter deltar sammen med javaBin, Kode kata, XP meetup, Framsia, Makers, Cocoaheads, NNUG og Oslo Lean Meetup. Dette er en spennende anledning til å mingle med andre "communities".
@@ -517,9 +796,7 @@ Program:
 
 [Detaljert program for CiA 2011 her](https://wiki.cantara.no/display/PE/Program+CiA+2011)
 
-### 2010
-
-#### Medlemsmøte: onsdag 1. september kl 17:00 - 19:00
+### 1. september 2010 kl 17:00 - 19:00
 
 Ansvarlig: Knut Vidar Siem
 Sponsor: Itera Consulting (tidl. Objectware)
@@ -530,7 +807,7 @@ Adresse: Sognsveien 77 A-B, 0806 Oslo
 
 Det vil bli servert mat på møtet.
 
-#### Medlemsmøte: torsdag 3. juni kl 17:00 - 19:00  - AVLYST
+### 3. juni 2010 kl 17:00 - 19:00  - AVLYST
 
 Ansvarlig: Kåre Presttun
 Sponsor: mnemonic as
@@ -540,16 +817,14 @@ Adresse: Wergelandsveien 25, 0167 Oslo
 * 17.45 - 18.15 Mat 
 * 18.15 - 19.00
 
-#### Medlemsmøte: mandag 10. mai kl 18:00 - 23:00 
+### 10. mai 2010 kl 18:00 - 23:00 
 
 Sponsor: [Communities in Action 2010](http://wiki.cantara.no/display/PE/Invitasjon+til+Communities+in+Action+2010),
 Adresse: Radisson Blu Hotel, Holbergsgt. 30
 
 Dette møtet er i samarbeid med Communities in Action 2010.
 
-#### Generalforsamling: Torsdag 8. april kl 16:30 - 17:00 
-
-[[Norway/Generalforsamling 2010]]
+### Generalforsamling: 8. april 2010 kl 16:30 - 17:00 
 
 Agenda:
 * Godkjenning av innkalling
@@ -587,7 +862,7 @@ Kåre Presttun
 Leder
 OWASP Norway Chapter
 
-#### Medlemsmøte: Torsdag 8. april kl 17:00 - 19:00 
+### 8. april 2010 kl 17:00 - 19:00 
 
 Ansvarlig: Erlend Oftedal
 Sponsor: BEKK
@@ -600,7 +875,7 @@ Agenda:
 
 Kontaktperson: Erlend Oftedal, 98219335
 
-#### Medlemsmøte: Torsdag 4. mars kl 17:00 - 19:00 
+### 4. mars 2010 kl 17:00 - 19:00 
 
 Ansvarlig: Knut Vidar Siem
 Sponsor: Objectware
@@ -611,7 +886,7 @@ Agenda:
 * 17.45 - 18.15 Mat 
 * 18.15 - 19.00 Møteplanlegging - mars 2010
 
-#### Medlemsmøte: Torsdag 4. februar kl 17:00 - 19:00
+### 4. februar 2010 kl 17:00 - 19:00
 Ansvarlig: Kåre Presttun
 Sponsor: Bouvet ASA
 Adresse: Sandakerveien 24C D11, Oslo
@@ -623,7 +898,7 @@ Agenda:
 
 Kontaktperson: Arnar Lundesgaard
 
-#### Medlemsmøte: Torsdag 7. januar kl 17:00 - 19:00
+### 7. januar 2010 kl 17:00 - 19:00
 Ansvarlig: Kåre Presttun
 Sponsor: Buypass AS
 Adresse: Nydalsveien 30A, Oslo
@@ -635,12 +910,11 @@ Agenda:
 
 Kontaktperson: John Arild A. Johansen
 
-### 2009
+### 3. desember 2009 kl 18:00
 
-#### Sosialt: Torsdag 3. desember kl 18:00 - ?
 OWASPils, Oslo Mikrobryggeri
 
-#### Medlemsmøte: Torsdag 12. november kl 17:00 - 19:00
+### 12. november 2009 kl 17:00 - 19:00
 Ansvarlig: Kåre Presttun
 Sponsor: mnemonic as
 Adresse: Wergelandsveien 23, 0167 Oslo
@@ -652,7 +926,7 @@ Agenda:
 
 Kontaktperson: Harald Øygard, Tel: 9825 6072
 
-#### Medlemsmøte: Torsdag 8. oktober kl 17:00 - 19:00
+### 8. oktober 2009 kl 17:00 - 19:00
 Ansvarlig: Kåre Presttun
 Sponsor: Sparebank 1
 Adresse: Hammersborggata 2, 0181 Oslo
@@ -662,7 +936,7 @@ Agenda:
 * 17.45 - 18.15 Mat
 * 18.15 - 19.00 "Inputvalidering i Spring Web MVC", Knut Vidar Siem (Objectware)
 
-#### Medlemsmøte: Torsdag 3. september kl 17:00 - 19:00
+### 3. september 2009 kl 17:00 - 19:00
 Ansvarlig: Erlend Oftedal
 Sponsor: BEKK
 Adresse: Skur 39, Vippetangenkaia, 0150 Oslo
@@ -674,7 +948,10 @@ Agenda:
 
 Watchcom kunne dessverre ikke stille allikevel - kommer forhåpentligvis tilbake ved en senere anledning
 
-#### Generalforsamling: Torsdag 4. juni kl 16:30 - 17:00
+### 4. juni 2009 kl 16:30 - 17:00
+
+**Generalforsamling**
+
 Kåre Presttun ønsket velkommen og presenterte årsberetning 2008/2009. Det var ingen kommenterer til årsberetningen.
 
 Deretter var det valg. Valgkomiteen, ved Markus Harboe og Åsmund Skomedal, foreslo gjenvalg av sittende styre og det ble vedtatt med akklamasjon. Videre foreslo Kåre Presttun gjenvalg av valgkomité som også ble vedtatt med akklamasjon. Derved heves møtet.
@@ -713,7 +990,8 @@ Leder
 OWASP Norway Chapter
 
 
-#### Medlemsmøte: Torsdag 4. juni kl 17:00 - 19:00
+### 4. juni 2009 kl 17:00 - 19:00
+
 Ansvarlig: Knut Vidar Siem
 Sponsor: Mnemonic AS
 Adresse: Wergelandsveien 23, 0167 Oslo
@@ -726,7 +1004,8 @@ Agenda:
 
 Avstemning om hvilken dag i måneden vi skal ha møter endte med første torsdag i måneden.
 
-####  Medlemsmøte: Torsdag 7. mai kl 17:00 - 19:00
+###  7. mai 2009 kl 17:00 - 19:00
+
 Ansvarlig: Kåre Prestun
 Sponsor: Mnemonic AS
 Adresse: Wergelandsveien 25, 0167 Oslo
@@ -740,7 +1019,8 @@ Diskutert på møtet:
 * Utvalgte spørsmål fra [[Sikkerhet_i_hverdagen_1#Ikke_tatt_opp]]
 * Notater fra møtet [[Sikkerhet_i_hverdagen_2]]
 
-#### Medlemsmøte onsdag 25. februar kl 17:00 - 19:00
+### 25. februar 2009 kl 17:00 - 19:00
+
 Ansvarlig: Knut Vidar Siem
 Sponsor: Objectware
 Adresse: Sognsveien 75z, 0806 Oslo
@@ -755,9 +1035,8 @@ For dette møtet planlegger vi ingen foredrag. I stedet ønsker vi å få til en
 
 Diskutert på møtet: [[Sikkerhet i hverdagen 1]]
 
-### 2008
+### 26. november 2008 kl 17:00 - 19:00
 
-#### Medlemsmøte onsdag 26. november kl 17:00 - 19:00
 mnemonic AS sto for lokale og mat. Stedet var: Litteraturhuset, Wergelandsveien 29, 0167 Oslo
 
 Agenda:
@@ -767,7 +1046,8 @@ Agenda:
 * 18.25 - 18.45 Harald Øygard - Hva kan vi i Norge bidra med til OWASP-prosjekter generelt? Eksempler og diskusjon.
 * 18.50 - 19.15 Markus Harboe - Trusselmodelleringserfaringer
 
-#### Medlemsmøte onsdag 29. oktober kl 17:00 - 19:00
+### 29. oktober 2008 kl 17:00 - 19:00
+
 En stor takk til USIT som stiller med lokale og pizza.
 Adressen er: Forskningsveien 3b, Blindern
 
@@ -781,7 +1061,7 @@ Lyntaler
 * 18.40 - 18.50 Alf-Ivar Holm - "Burp Proxy"   
 * 18.55 - 19.05 Erlend Oftedal - "Virusjakt"
 
-#### Medlemsmøte tirsdag 30. september kl 17:00 - 19:00
+### 30. september 2008 kl 17:00 - 19:00
 
 Sted: Bouvet, Sandakerveien 24c, Bygning d11, Boks 4430 Nydalen
 
@@ -789,7 +1069,8 @@ Sted: Bouvet, Sandakerveien 24c, Bygning d11, Boks 4430 Nydalen
 * 17:45 - 18:00 - Pause
 * 18:00 - 18:45 - Reprise fra Javazone: Sikkerhet i norske webapplikasjoner - Markus Harboe og Erlend Oftedal
 
-#### Medlemsmøte onsdag 27. august 2008 kl 17:00 - 19:00
+### 27. august 2008 kl 17:00 - 19:00
+
 Møtet var hos Objectware, som også stilte med pizza.
 
 * 17:00 - 17:45 - [Sikkerhetstesting av AJAX-applikasjoner](assets/files/AJAXsikkerhetstesting.pdf) - Ole Jacob Eriksen 
@@ -797,7 +1078,7 @@ Møtet var hos Objectware, som også stilte med pizza.
 * 18:00 - 18:45 - [Cross Site Request Forgery](assets/files/20080827_XSRF.pdf) - Erlend Oftedal
 * 18:45 - 19:00 - Tooltip: Firefox som sikkerhetsverktøy - Erlend Oftedal
 
-#### Medlemsmøte onsdag 28. mai 2008 kl 17:00 - 19:00
+### 28. mai 2008 kl 17:00 - 19:00
 
 Møtet var hos mnemonic as i Wergelandsveien 25 rett ved Slottsparken og to hus ovenfor Kunstnernes Hus. Det er parkering tilgjengelig.
 
@@ -806,7 +1087,9 @@ Møtet var hos mnemonic as i Wergelandsveien 25 rett ved Slottsparken og to hus 
 * 17:45 - 18:00 - Pause, (alle)
 * 18:00 - 19:00 - [Kort introduksjon til applikasjonssikkerhet](assets/files/20080528_Secure-web-applications.pdf), Bård Farstad, eZ systems
 
-####  Generalforsamling i OWASP Norway Chapter 28. april 2008
+###  28. april 2008
+
+**Generalforsamling i OWASP Norway Chapter**
 
 Erlend Oftedal ønsket velkommen og gjorde en kort introduksjon til hjemmeside og mailingliste. Deretter ble Kåre Presttun valgt til møteleder og Markus Harboe til referent.
 
@@ -826,7 +1109,9 @@ Til valgkomite ble valgt
 
 Bekk sponset generalforsamlingen med lokaler og bevertning.
 
-#### OWASP Norway Stiftelsesmøte ble avholdt 2. april 2008
+### 2. april 2008
+
+**OWASP Norway Stiftelsesmøte**
 
 Bjørvika Konferansesenter kl 1500-1800 2. april 2008
 

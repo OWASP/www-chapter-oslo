@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Norway
 tags: norway
 region: Europe
-meetup-group: OWASP-Norway
+meetup-group: owasp-norway
 
 ---
 

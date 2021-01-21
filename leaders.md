@@ -6,5 +6,5 @@
 * Jostein Tveit
 * Lars Smeby
 * Nick Murison
-* Ståle Pettersen
+* [Ståle Pettersen](mailto:ståle.pettersen@owasp.org)
 * Tor E. Bjørstad

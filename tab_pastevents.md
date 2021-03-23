@@ -9,6 +9,101 @@ tags: norway
 
 ## Past events
 
+### 17. mars 2021, 19:00 - 20:00
+
+**Google's Differential Privacy Library – Mirac Vuslat Basaran (Google)**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/276469937/>
+
+Differential privacy helps organizations derive insights from data while simultaneously ensuring that those results do not allow any individual's data to be distinguished or re-identified. Sound interesting?
+Come hear Mirac Vuslat Basaran (Google) talk about Google's Differential Privacy Library!
+
+We will start with a brief introduction to differential privacy and why it might be useful for you. Then, we will go through what kind of tools and functionalities Google's Differential Privacy Library supports such as secure noise implementations, different aggregations, end-to-end systems that require only minimal knowledge of differential privacy, etc.
+Finally, we'll talk about future plans for the library.
+
+We'll finish with a short Q&A.
+
+Mirac is a Software Engineer in the area of anonymization and differential privacy at Google. Before joining Google, he studied Computer Engineering (and Economics) at Bilkent University. Currently, he helps build and open source infrastructure for product teams to anonymize their data. He also consults product teams on anonymization and differential privacy.
+
+URL to Google's Differential Privacy Library:
+<https://github.com/google/differential-privacy>
+
+
+### 10. desember 2020, 19:00 - 20:00
+
+**Chat with Emil Vaagland about running FINN.no's private bug bounty program**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/274255519/>
+
+Curious about how it is to run a bug bounty program? Join our chat with Emil Vaagland to get all your questions answered. He has been running FINN.no's private bug bounty program for well over a year now, and he will share all his experiences with you in a conversation with Ståle Pettersen.
+
+The format of this event will be an informal conversation, so questions from the audience are very welcome!
+
+
+### 13. oktober 2020, 19:00 - 21:00
+
+**Enforcing Code & Security Standards with Semgrep**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/273505813/>
+
+Abstract:
+We’ll discuss a program analysis tool we’re developing called Semgrep. It's a multilingual semantic tool for writing security and correctness queries on source code (for Python, Java, Go, C, and JS) with a simple “grep-like” interface. The original author, Yoann Padioleau, worked on Semgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed Semgrep while at Facebook. He’s now full time with us at r2c.
+
+Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
+
+For example, find subprocess calls with shell=True in Python using the query:
+subprocess.open(..., shell=True)
+This will even find snippets like:
+import subprocess as s
+s.open(f'rm {args}', shell=True)
+
+Or find hardcoded credentials using the query:
+boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )
+
+Source code: <https://github.com/returntocorp/semgrep>
+Test in your browser: <https://semgrep.dev/>
+
+Speaker bio:
+Bence Nagy is a software engineer at r2c, working on Semgrep, an open-source syntax-aware code search tool. At r2c, his responsibilities tend towards building various interfaces atop the core semgrep CLI. These include CI integrations, editor extensions, and the semgrep.live web app. He previously led a developer experience team at Kiwi.com, the Czech Republic’s top startup at the time of its acquisition in 2019. You should totally ask him for video game recommendations after the talk.
+
+
+### 27. februar 2020, 17:00 - 20:00
+
+**Secure coding tournament**
+
+**Location:** Microsoft Norway, Dronning Eufemias gate 71, Oslo
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/268317515/>
+
+This event is sponsored by Microsoft and Oslo BSides.
+
+Agenda: (Rough timings)
+- 1700 Arrival - Registration, food and drinks
+- 1720 Presentation (TBA)
+- 1805 Platform Demo
+- 1815 Tournament
+- 1945 Prize Giving
+
+Secure Code Warrior is coming and they will setup a secure coding tournament!
+This competition will put your security skills to the test. Players will be presented with a series of code challenges that will ask them to locate the insecure code, identify the vulnerability and then fix it. All challenges are based on real-life code examples, and are ranked from easy to difficult! Each player can choose from a range of software languages (C# .NET, GO, Java, Python etc.) to compete fairly in the Tournament.
+
+Prizes will be awarded to 1st and 2nd place (if you are a sponsor and would like to give a price, contact us).
+
+Check out one of the UK's OWASP Tournaments last summer:
+<https://www.youtube.com/watch?v=xQJAl1m0_DE>
+
+Supported languages:
+<https://securecodewarrior.com/supported-languages>
+
+All you need:
+Your laptop!
+
 ### 11. desember 2019, 17:00 - 20:00
 
 **Desembermøte: WebAuthn og Burp-triks**

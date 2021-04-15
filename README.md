@@ -1,6 +1,6 @@
 # OWASP Norway Chapter web pages
 
-Pages are deployed to https://www2.owasp.org/www-chapter-norway/
+Pages are deployed to https://www.owasp.org/www-chapter-norway/
 
 ## How to test pages locally
 

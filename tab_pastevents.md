@@ -9,6 +9,45 @@ tags: norway
 
 ## Past events
 
+### 30. april 2021, 09:00 - 10:00
+
+**Morning meetup: The defender’s new clothes - Eldar Marcussen**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/277527268/>
+
+We're doing a morning meeting this time, as our speaker is based in Australia.
+
+Description:
+Proving vulnerabilities in modern web applications is significantly harder than it used to be thanks to WAFs and other protection measures. This talk will discuss and showcase several approaches to bypasses ranging from simple to advanced.
+
+Bio:
+Eldar Marcussen https://twitter.com/wireghoul is a lead security researcher and penetration tester. He is a long time bug hunter with a large number of published advisories, exploits and conference presentations at leading security conferences all over the world. He was a recipient of the first CVE 10K candidate numbers. In addition to finding vulnerabilities he contributes to and maintain several open source projects in his spare time aimed at web application security and penetration testing. These include graudit, doona, lbmap, dotdotpwn, nikto and more. His tools and research are featured in most security oriented linux distros as well as many industry leading books.
+
+
+### 21. april 2021, 18:00 - 19:00
+
+**Privacy Case Study: Ambient Light Sensor API**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/277094300/>
+
+Welcome to another remote meetup!
+This time we will be joined by Lukasz Olejnik, who will walk us through an Ambient Light Sensor API privacy case study.
+We'll wrap things up with a short Q&A afterward.
+
+For the majority of users, web browser is the most important computer application. Increasingly complex, exciting and rich, features are standardized by W3C and implemented in web browsers on a normal basis. New browser features introduce interesting privacy challenges for standardization, research and development. I will demonstrate a privacy case study based on the example of Ambient Light Sensor. A web privacy impact assessment of a planned web browser feature, the Ambient Light Sensor API, indicated risks arising from the exposure of overly precise information about the lighting conditions in the user environment. The analysis led to the demonstration of direct risks of leaks of user data, such as the list of visited websites or exfiltration of sensitive content across distinct browser contexts. Our work contributed to the creation of web standards leading to decisions by browser vendors (i.e. obsolescence, non-implementation or modification to the operation of browser features). We highlight the need to consider broad risks when making reviews of new features. I will suggest practically-driven high-level observations lying on the intersection of web security and privacy risk engineering and modeling, and standardization.
+
+Dr Lukasz Olejnik acts as an independent security and privacy researcher and advisor. His experience spans research, industry, standardization, and policy. His research interests include information and computer security and privacy, user data disclosure and dissemination problems as well as privacy-sensitive matters related to web browser functionalities, web security, privacy reviews, and privacy impact assessments. His research analysing user tracking and profiling on the web has impacted web standards and web browsers.
+
+Lukasz is a World Wide Web Consortium’s (W3C) Invited Expert, where he focuses on privacy of web standards. In 2018-2020 he was elected to the W3C’s Technical Architecture Group. Lukasz is involved in technology policy, focusing on cyber security, privacy, and data protection. He held roles as technology policy advisor at the European Parliament (working on ePrivacy), scientific advisor on cyber warfare at the International Committee of the Red Cross, with a focus on assessing the humanitarian consequences of cyber operations, and science and technology advisor at the European Data Protection Supervisor.
+
+Read more about the case study on his website:
+https://blog.lukaszolejnik.com/shedding-light-on-designing-web-features-with-privacy-risks-impact-assessments-case-study/
+
+
 ### 17. mars 2021, 19:00 - 20:00
 
 **Google's Differential Privacy Library – Mirac Vuslat Basaran (Google)**

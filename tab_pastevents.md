@@ -9,6 +9,78 @@ tags: norway
 
 ## Past events
 
+### 27. mai 2021, 20:00 - 21:00
+
+**Generalforsamling + valg av ledere**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/277717277/>
+
+Dette blir ingen vanlig meetup, men et todelt møte hvor vi først har generalforsamling i OWASP Norway Chapter (org nr. 994253085). Deretter foretar vi valg av ledere og eventuelt en programkomité.
+
+--------------------------------------------------------------------------------------------
+Del 1: Generalforsamling OWASP Norway Chapter (org nr. 994253085)
+
+Sak 1: Valg av ordstyrer
+
+Sak 2: Valg av referent
+
+Sak 3: Godkjenning av innkalling
+
+Sak 4: Sletting av OWASP Norway Chapter fra Brønnøysundregisteret
+
+Bakgrunn: OWASP Norway Chapter er i dag registrert i Brønnøysundregisteret med organisasjonsnummer 994253085. Lokale chapters skal i følge OWASP Chapter Policy [1] ikke være egne juridiske enheter. Vi ønsker derfor å slette enheten fra Brønnøysundregisteret i henhold til gjeldene vedtekter[2], vedtatt 28. april 2008. Dette vil ikke ha noen påvirking på møteaktivitet eller den daglige driften av OWASP Norway Chapter, da vi fortsetter å eksistere som før under OWASP Foundation. I henhold til vedtektene krever en oppløsning 2/3 flertall på ordinær generalforsamling.
+
+Forslag til vedtak: OWASP Norway Chapter (org nr: 994253085) oppløses i henhold til vedtektene, og slettes fra Brønnøysundregisteret
+
+[1] https://owasp.org/www-policy/operational/chapters
+
+[2] https://owasp.org/www-chapter-norway/assets/files/20080428_Norway_chapter_vedtekter.pdf
+
+--------------------------------------------------------------------------------------------
+Del 2: Valg av ledere til OWASP Norway Chapter
+
+OWASP Norway Chapter skal ha 2-5 ledere og eventuelt en egen programkomité. Dersom du ønsker å engasjere deg i OWASP Norway Chapter, så ta kontakt med jostein.tveit@owasp.org på forhånd av møtet, så vi har en oversikt over hvor mange som ønsker å være med.
+Det er en forventning om at man har hovedansvaret for å arrangere minst én meetup per år. I praksis betyr det å skaffe dyktige foredragsholdere, finne egnet lokale og eventuelt skaffe en matsponsor til meetupen. Du vil få hjelp av mer erfarne ledere om det trengs.
+
+Om du ønsker å bidra, anbefales det å lese gjennom Chapter Handbook [1] og Chapters Policy [2].
+
+[1] https://owasp.org/www-policy/operational/chapter-handbook-existing.html
+
+[2] https://owasp.org/www-policy/operational/chapters.html
+
+### 27. mai 2021, 17:00 - 19:00
+
+**Security+Ambidexterity+Devops = FUN / Dependency Confusion**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/277959854/>
+
+Welcome to another online OWASP Norway Chapter meetup. Today we will have two talks, presented by Espen Johansen from Visma and Ståle Pettersen from Schibsted.
+
+I hope we soon will be able to meet again at Teknologihuset to enjoy a slice of pizza. But for now we will continue to host online meetups.
+
+See you!
+
+------------------------
+Security+Ambidexterity+Devops = FUN - Espen Johansen (Visma)
+
+I dette foredraget vil Espen snakke dypere om de tekniske valgene som er gjort hos Visma fra starten av DevOps transformasjonen fram til i dag. Han vil også demonstrere hvordan noen av systemene virker i praksis og gi salen mulighet til å styre han :-) Interaktivt foredrag med store muligheter til å få innsyn.
+
+Experience sharing and storytelling from Visma`s work with integrating security into DevOps by means of Ambidexterity as method. Practical examples on choice of leaders, board composition, spices with technical choices made along the way.
+
+Espen is a passionate Security DevOps-er with a flair for midlifecrisemanagement and enjoying life to it’s fullest. He serves as the Director of Security in Visma but is secretly passionate about gamification, UX, Democracy and Security. He loves difficult words and like to apply their meaning in agile teams.
+
+------------------------
+Dependency Confusion - Ståle Pettersen (Schibsted)
+
+Are you confused about the Dependency Confusion attack? We will explain the bug class that compromised Apple, Microsoft and Tesla, and how you can defend yourself against it in the different package manager systems (npm, python, Java, Ruby and more). We will go through how the Product & Application Security team in Schibsted worked to mitigate this bug class in JFrog Artifactory. One part of our solution was the tool Artishock (https://github.com/schibsted/artishock).
+
+Ståle Pettersen (@kozmic) is leading the Product & Application Security team within Schibsted. He has 10+ years experience as a developer and a security enthusiast and is a big fan of OWASP and doesn’t like to brag about himself :)
+
+
 ### 30. april 2021, 09:00 - 10:00
 
 **Morning meetup: The defender’s new clothes - Eldar Marcussen**

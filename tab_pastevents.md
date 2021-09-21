@@ -9,6 +9,34 @@ tags: norway
 
 ## Past events
 
+### 17. august 2021, 18:00 - 19:30
+
+**Secure by Design – insights & pitfalls**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/278808275/>
+
+Secure by Design is all about choosing good design principles that yield implicit security benefits. This seems like a solid strategy as it naturally appeals to everyones instinct of crafting good software. We simply fool ourselves into coding more securely! But have there been any further insights since the book release in 2019? In this session we cover the fundamentals of Secure by Design and showcase a few designs that have shown fruitful, as well as some pitfalls from the trenches where usages subtly miss the original intentions.
+
+Daniel Deogun & Dan Bergh Johnsson are authors of the book Secure by Design and have collectively been working with security and development for several decades. They are developers at heart and understand that security is often a side-concern. They've also evolved work habits that enable them to develop systems in a way that promotes security while focusing on high-quality design habits – something that's easier for developers to keep in mind during their daily work. Both are established international speakers and often present at conferences on topics regarding high-quality development and security.
+
+### 30. juni 2021, 18:00 - 19:00
+
+**Anonymous Tokens for more Private Contact Tracing**
+
+**Location:** Online
+
+**Meetup event:** <https://www.meetup.com/OWASP-Norway/events/278808275/>
+
+“Anonymous Tokens for more Private Contact Tracing” – Henrik Walker Moe (Bekk) and Tjerand Silde (NTNU)
+
+This talk will be about how we integrated anonymous tokens with the Norwegian contact tracing app Smittestopp (version 2). We will talk about how anonymous tokens work, how we implemented the library (https://github.com/HenrikWM/anonymous-tokens), and we will discuss some challenges and possible improvements to the protocol. Lastly, we will mention some possible future directions and use-cases for the token system.
+
+Henrik Walker Moe works as the Practice Lead for Information Security in Bekk. He’s an advocate for security awareness and promotes skills needed to stay current within cyber-security for his colleagues and customers. He is also a board member on NNUG (Norwegian .Net User Group) and hosts meetups for the .Net-community.
+
+Tjerand Silde is a Ph.D. researcher in cryptography at the Norwegian University of Science and Technology in Trondheim. His main focus of research is post-quantum cryptography and privacy preserving protocols, e.g., zero-knowledge proofs, multi-party computation and anonymous credentials. Website: https://tjerandsilde.no.
+
 ### 27. mai 2021, 20:00 - 21:00
 
 **Generalforsamling + valg av ledere**

@@ -4,3 +4,4 @@ env
 .jekyll-metadata
 _site
 Gemfile.lock
+.idea

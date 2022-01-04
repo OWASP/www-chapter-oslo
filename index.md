@@ -8,7 +8,7 @@ meetup-group: OWASP-Norway
 
 ## Welcome
 
-Welcome to OWASP Oslo chapter - formerly known as the OWASP Norway chapter. Please join our [Meetup group](https://www.meetup.com/OWASP-Norway/) to receive information about upcoming events.
+Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). Please join our [Meetup group](https://www.meetup.com/OWASP-Norway/) to receive information about upcoming events.
 
 ## Next event
 

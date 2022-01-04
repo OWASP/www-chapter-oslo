@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Oslo
 tags: norway, oslo
 region: Europe
-meetup-group: owasp-norway
+meetup-group: OWASP-Norway
 ---
 
 ## Welcome

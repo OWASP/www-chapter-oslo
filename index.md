@@ -4,7 +4,7 @@ title: OWASP Oslo
 tags: norway, oslo
 region: Europe
 meetup-group: OWASP-Norway
-postal-code: 0010
+postal-code: "0010"
 
 ---
 

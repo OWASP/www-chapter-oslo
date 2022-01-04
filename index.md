@@ -16,6 +16,8 @@ Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). 
 
 {% include chapter_events.html group=page.meetup-group %}
 
+[2022-01-13 17:00 - Hacking GraphQL, same stuff different API?](https://www.meetup.com/OWASP-Norway/events/283048482/)
+
 ## Participation
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums and chapters are free and open to anyone interested in improving application security.

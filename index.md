@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Oslo
 tags: norway, oslo
 region: Europe
-meetup-group: OWASP-Norway
+meetup-group: OWASP-Oslo
 postal-code: "0010"
 
 ---
@@ -16,7 +16,7 @@ Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-[2022-01-13 17:00 - Hacking GraphQL, same stuff different API?](https://www.meetup.com/OWASP-Norway/events/283048482/)
+[2022-01-13 17:00 - Hacking GraphQL, same stuff different API?](https://www.meetup.com/OWASP-Oslo/events/283048482/)
 
 ## Participation
 

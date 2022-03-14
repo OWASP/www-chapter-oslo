@@ -16,7 +16,9 @@ Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-[2022-01-13 17:00 - Hacking GraphQL, same stuff different API?](https://www.meetup.com/OWASP-Oslo/events/283048482/)
+[2022-03-29 17:00 - Virtual event: Where Security meets Forensics](https://www.meetup.com/OWASP-Oslo/events/284603583/)
+
+[2022-08-29 - 2022-08-31 - OWASP Track at Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no/)
 
 ## Participation
 

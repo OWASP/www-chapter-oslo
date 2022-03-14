@@ -9,6 +9,30 @@ tags: norway
 
 ## Past events
 
+### 13. January 2022, 17:00 - 19:00
+
+**New Year, new things**
+
+**Location:** Online
+
+**Meetup event:** https://www.meetup.com/OWASP-Oslo/events/283048482/
+
+**Recording:** https://www.youtube.com/watch?v=g_YvPpV4Dm8
+
+17:00-17:50 Veronica Schmitt
+Title: If nothing goes right, push left
+
+If we do not have it we should build it.- If nothing goes right, push left.
+TL;DR: Your logs should be simple, and structured, they should also contain enough information without disclosing sensitive data. Often accidental information disclosure within the logs can lead to future breaches. This talk focuses on the process of building logs taking into consideration the attack, the defense, and the investigation of breaches. Using the ideals from The Unicorn and The Phoenix project to develop the "Five Philosophies of Logging". This talk explores different aspects of logging pulling from years of experience of breach investigations and magic-wielding.
+
+Veronica started her forensic career in 2008. She is an Assistant Professor at Noroff University. She is the Non-Executive Director within DFIRLABS. Veronica holds a Master in Science at Rhodes University in Information Security with specialisation in the forensic analysis of malware. She prides herself in keeping patients safe as this is something which is near to her heart. She is also a cyborg sporting an embedded medical device herself. She also is a DEF CON Goon and she is the founder of DC2751.
+
+18:00-18:50 Toby Irvine
+“If you can’t measure it you can’t improve it. But what should we be measuring in security? How do we measure it? Why should I do a PCR Covid test over a lateral flow test if I have symptoms? And how the heck are these related?”
+
+Toby is the CEO and the co-founder for Secure Delivery. He has 25 years of experience in secure software engineering, and this can be seen in him unlocking his grey beard wizard level. He has got experience in designing and building large scale on-site and cloud systems across many industries some of those being critical industries. He specializes working with highly regulated organisations. He is also the author of the handbook used by HSBC's Secure Development Handbook, which is a field guide for secure application development for 30,000 software developers across 68 countries. He has trained both technical and non-technical individuals in delivery roles across the Americas, EMEA and APAC. Specifically in modern application security practices. He is a member of OWASP in which he is the project leader for the OWASP Open AppSec Curriculum. He believes in pushing doing right by customers in doing things better. In his spare time he is a musician, and may even have his own Youtube channel. If you have a problem he has probably already encountered it and has the knowledge on how to fix it.
+
+
 ### 17. august 2021, 18:00 - 19:30
 
 **Secure by Design – insights & pitfalls**

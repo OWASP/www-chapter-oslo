@@ -16,9 +16,10 @@ Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). 
 
 {% include chapter_events.html group=page.meetup-group %}
 
-[2022-03-29 17:00 - Virtual event: Where Security meets Forensics](https://www.meetup.com/OWASP-Oslo/events/284603583/)
+[2023-01-17 18:00 - Tune your Toolbox for Velocity and Value - Josh Grossman](https://www.meetup.com/owasp-oslo/events/290761822/)
 
-[2022-08-29 - 2022-08-31 - OWASP Track at Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no/)
+
+
 
 ## Participation
 

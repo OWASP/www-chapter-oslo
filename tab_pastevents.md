@@ -9,6 +9,18 @@ tags: norway
 
 ## Past events
 
+### 2022-03-29 17:00
+
+[2022-03-29 17:00 - Virtual event: Where Security meets Forensics](https://www.meetup.com/OWASP-Oslo/events/284603583/)
+
+### 2022-08-29 - 2022-08-31
+
+[2022-08-29 - 2022-08-31 - OWASP Track at Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no/). 3 day conference where OWASP Oslo had a 1 day track with 8 talks.
+
+### 2022-09-15 18:00 
+
+[2022-09-15 18:00 - Virtual: Are we secure? - Jeff Williams](https://www.meetup.com/owasp-oslo/events/287853653/)
+
 ### 13. January 2022, 17:00 - 19:00
 
 **New Year, new things**

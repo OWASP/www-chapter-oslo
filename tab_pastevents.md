@@ -21,7 +21,7 @@ tags: norway
 
 [2022-09-15 18:00 - Virtual: Are we secure? - Jeff Williams](https://www.meetup.com/owasp-oslo/events/287853653/)
 
-### 13. January 2022, 17:00 - 19:00
+### 2022-01-13, 17:00 - 19:00
 
 **New Year, new things**
 

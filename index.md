@@ -17,6 +17,7 @@ Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). 
 {% include chapter_events.html group=page.meetup-group %}
 
 [2023-03-02 17:00 - Defendable Products - Ståle Pettersen](https://www.meetup.com/owasp-oslo/events/291637400/)
+
 [2023-01-17 18:00 - Tune your Toolbox for Velocity and Value - Josh Grossman](https://www.meetup.com/owasp-oslo/events/290761822/)
 
 

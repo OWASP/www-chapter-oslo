@@ -4,25 +4,18 @@ title: OWASP Oslo
 tags: norway, oslo
 region: Europe
 country: Norway
-meetup-group: OWASP-Oslo
+meetup-group: owasp-oslo
 postal-code: "0010"
 
 ---
 
 ## Welcome
 
-Welcome to the OWASP Oslo chapter (formerly known as the OWASP Norway chapter). Please join our [Meetup group](https://www.meetup.com/OWASP-Oslo/) to receive information about upcoming events.
+Welcome to the OWASP Oslo chapter. Please join our [Meetup group](https://www.meetup.com/owasp-oslo/) to receive information about upcoming events.
 
 ## Next event
 
 {% include chapter_events.html group=page.meetup-group %}
-
-[2023-03-23 17:00 - Defendable Products - Ståle Pettersen](https://www.meetup.com/owasp-oslo/events/291637400/)
-
-[2023-01-17 18:00 - Tune your Toolbox for Velocity and Value - Josh Grossman](https://www.meetup.com/owasp-oslo/events/290761822/)
-
-
-
 
 ## Participation
 

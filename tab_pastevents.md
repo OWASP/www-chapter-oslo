@@ -9,17 +9,344 @@ tags: norway
 
 ## Past events
 
-### 2022-03-29 17:00
+### 2024-11-27, 17:30 - 20:00
 
-[2022-03-29 17:00 - Virtual event: Where Security meets Forensics](https://www.meetup.com/OWASP-Oslo/events/284603583/)
+**Bug Bounty Bonanza**
+
+**Location:** SpareBank 1 Utvikling, Hammersborggata 11, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/304502608/
+
+Velkommen til OWASP temakveld om bug bounty! Finnerlønn for sårbarheter burde vært obligatorisk for viktige publikumsløsninger på internett, men i Norge er det unntaket heller enn regelen. Vi har gleden av å invitere til to erfaringsforedrag om innføring og drift av bug bounty-programmer, og et foredrag om hvordan det er å delta som tester.
+
+Det serveres mat kl 17:30, og foredragene starter kl 18:00. Vi vil ha tid til spørsmål og diskusjoner.
+
+Temakvelden arrangeres i SpareBank 1 Utviklings møteromssenter. Vi ber om at dere oppgir telefonnummer under påmelding, så vi kan forhåndsregistrere dere som besøkende.
+
+Sett skuddpremie på sårbarhetene dine - Jon Are Rakvåg, SpareBank 1 Utvikling
+
+SpareBank 1 Utvikling lager nettbank, og vi gjør alt vi kan for å gjøre den sikker. Likevel var vi overbevist om at vi hadde sårbarheter vi ikke hadde funnet ennå. Det stemte!
+
+La oss snakke om hva SpareBank 1 lærte av å innføre finnerlønn for sårbarheter, og hvorfor du er sprø om du ikke gjør det samme. Hva gjør bug bounties unikt, og hvordan reddet det rumpa til foredragsholderen?
+
+30 min
+
+FINN.no's Secret Sauce: how we went from finding 15 vulnerabilities to over 100 per year! - Emil Vaagland, FINN.no
+
+Since 2019 FINN.no has tried a lot of different appsec tools and processes to improve our security. In this talk you will learn about the most effective of them all, namely our private bug bounty program. In terms of finding real vulnerabilities, this activity outshines any other appsec tool or process by a large margin, it enables us to find a lot more vulnerabilities than before at a fraction of the cost of traditional pen-testing. We will talk about how to run an effective bug bounty program and why it should be the key ingredient of your appsec program. We will also show-case some high impact vulnerability reports we have received to show the real impact you can get from a bug bounty program.
+
+20-30 min
+
+Sårbarheter som hobby - Joakim Harbitz
+
+Å jakte etter sårbarheter kan være både spennende og utfordrende, men hvordan starter man egentlig?
+
+Joakim er pentester på dagtid og en dedikert bug bounty hunter på kveldstid. I dette foredraget deler han sine beste tips og triks for å komme i gang, og hvordan man utvikler et tankesett som øker sjansene for å finne den neste sårbarheten.
+
+Enten du er nybegynner eller har litt erfaring, vil dette foredraget gi deg innsikt i hvordan du kan skille deg ut i en konkurransepreget arena. Hvordan små detaljer kan avsløre store muligheter og lede deg til sårbarheter ingen andre ser.
+
+20-30 min
+
+
+### 2024-10-15, 17:00 - 19:00
+
+**Gamification of Threat modeling**
+
+**Location:** Visma Enterprise AS, Karenslyst Allé 56, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/303410666/
+
+17:00-1730 - Food serving
+17:30-18:15 - Gamification of Threat Modeling for Machine Learning, Elias Brattli Sørensen
+18:15-19:00 - Let’s play OWASP Cornucopia! Johan Sydseter
+
+Gamification of Threat Modeling for Machine Learning
+
+Artificial Intelligence (AI) has established itself as an important part of our lives, with machine learning spearheading the most notable innovations in the last two decades. Publications about prompt injection and similar attacks get a lot of attention. However, these are far from the only security issues with machine learning systems. We also have to think about challenges like poisoned data, recursive data pollution and all the personally identifiable information the models have memorized, as well as other inherent weaknesses with stochastic systems. Too much focus is directed towards operational security in the OPS part of of MLOps, while the shift-left idea of building systems "secure by design" during planning and development does not get enough emphasis. Threat modeling and risk analysis will likely play an important role in the future of machine learning security. I introduce Elevation of MLsec, which is an extension of Shostack's threat modeling card game Elevation of Privilege, and based on the risk framework published by the Berryville Institute of Machine Learning (BIML). In this talk, we will demystify how machine learning systems actually work and explore how the threat modeling game can help us engineer more secure machine learning systems.
+
+Let’s play OWASP Cornucopia!
+
+OWASP Cornucopia is a card game to assist software development teams identify security requirements in agile software development processes. It is language, platform, and technology agnostic.
+
+In this session we will learn to play the game in a different way from what we usually do. Johan Sydseter, OWASP Cornucopia co-lead and game master will take you through a provocative scenario. Confronted with the grumpy old senior developer that refuses to shift-left due to too many hours working overtime on his incredible sophisticated pet projects, what will you do? Will you be able to teach him a lesson about why security is important, or will he be laughing all the way to his developer cave? Only true passionate application security engineers will succeed. Expect confetti, swags, (yes, you read right, swag, valued just below the corruption limit) and illegal bribes as you venture into the unknown of OWASP Cornucopia.
+
+Speakers
+
+Elias Brattli Sørensen is a software engineer & security champion at Kantega SSO, engineering digital identity standards for secure authentication to the Atlassian ecosystem while facilitating and promoting secure software development practices. M. Sc. in Computer Science at NTNU, researching usage of static analysis tools like Spotbugs to find vulnerabilities in OpenID Connect client implementations.
+
+Johan Sydseter is co-leader for OWASP® Cornucopia and Co-creator of the OWASP® Cornucopia Mobile App Edition. The man with the long hair, not the long beard. Fresh meat in App Sec and OWASP but has 15 years' experience building and designing backend and frontend solutions as a designer, developer and architect. He has held several presentations on appsec at various international conferences, loves confetti and funny glasses.
+
+
+### 2024-04-29, 17:00 - 19:00
+
+**OWASP Oslo Chapter meetup**
+
+**Location:** Nav, Fyrstikkalléen 1, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/300368216/
+
+Big thanks to NAV for sponsoring this event!
+
+17:00-17:15 Food
+17:15-18:00 Finding a three 0-day exploit chain in Ivanti EPMM and Ivanti Sentry, Tor E. Bjørstad and Erlend Leiknes, mnemonic
+18:15-19:00 Testing race conditions has never been faster, Sofia Lindqvist, Binary Security
+
+Finding a three 0-day exploit chain in Ivanti EPMM and Ivanti Sentry
+
+During the summer of 2023, a team at mnemonic discovered three 0-day vulnerabilities in Ivanti Endpoint Protection Manager Mobile (EPMM, formerly known as Mobileiron Core) and Ivanti Sentry.
+
+CVE-2023-35078: authentication bypass in Ivanti EPMM, CVSS 9.8
+CVE-2023-35081: path traversal / arbitrary file write in Ivanti EPMM, CVSS 7.2
+CVE-2023-38035: authentication bypass in Ivanti Sentry, CVSS 9.8, allowing command execution as root.
+All three vulnerabilities are listed in CISA's Known Exploited Vulnerabilities catalog, as they are known to have been exploited by threat actors in the wild. Ivanti has also confirmed that the vulnerabilities can be combined in an exploit chain.
+In this talk we'll take a closer look at what actually happened.
+
+Speakers
+
+Tor E. Bjørstad has spent his entire career in security and privacy. For the last decade he has worked as a principal security consultant at mnemonic, based in Oslo. He has mainly focused on software security and security architecture, with a particular interest in society-critical infrastructure. Tor holds a Ph.d. in cryptography from the University of Bergen.
+
+Erlend Leiknes, a security consultant at mnemonic as, Oslo, spends his days as a penetration tester. His professional motto is that most vulnerabilities are obvious, the endeavor is to look at the right places. Erlend holds a master's degree in technical societal safety from University of Stavanger.
+
+
+TESTING RACE CONDITIONS HAS NEVER BEEN FASTER
+
+Historically, testing for race condition vulnerabilities in web apps has been a painful ordeal, likely making race conditions an under-explored attack vector. In the summer of 2023, groundbreaking research by James Kettle completely changed the game, suddenly making it much easier for pentesters (and attackers) to test for this type of vulnerability. In this talk I will show how race conditions work, how to test for them and how to protect against them, based off an example vulnerability I found during a recent pentest.
+
+Speaker
+
+Sofia Lindqvist, security specialist, Binary Security
+
+Sofia works as a security specialist at Binary Security. She started her career with a PhD in pure maths, followed by three years at Cisco developing one of their networking OSs. She eventually made her way into security testing, which she has been doing for a year and a half.
+
+
+### 2023-11-28, 17:00 - 19:00
+
+**The ML(Ops) Security Landscape**
+
+**Location:** Ardoq, Myntgata 2, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/297278006/
+
+Welcome to OWASP Oslo's November meetup, hosted by Ardoq!
+
+You are welcome to arrive anytime between 17:00 and 17:30. Pizza will be served :) We plan to kick off the talk around 17:30.
+
+More Tools Mean More Misconfigurations - The ML(Ops) Security Landscape
+
+In this talk, we will cover some of the issues related to the emerging field of Machine Learning and AI security. We will cover some low hanging fruits related to ML security - we will show how attackers can get access to victims' secrets, source codes and API keys. We will also talk about OWASP's initiatives for AI security, such as the OWASP Top10 for ML, the OWASP Top10 for LLM, and the OWASP AI Security Guide.
+
+Mikołaj Kowalczyk
+
+Mikołaj is an experienced engineer with an interest in the offensive side of cybersecurity, and is a part of the Security team at Ardoq.
+
+Since the very beginning of the Large Language Models hype, Mikołaj has been researching the possibilities of these new technologies – both for defence and attack, and has also been involved in a community around Large Language Models security. He runs a bi-weekly AI security newsletter – The Real Threats of Artificial Intelligence and explores the new attack surface that LLMs have brought to software development. Mikołaj also contributes to the development of a new Machine Learning security guideline – OWASP Top10 for Machine Learning.
+
+### 2023-09-20, 18:00 - 20:00
+
+**Test Driven Application Security + Post-Quantum Cryptography 101**
+
+**Location:** Visma Enterprise AS, Karenslyst Allé 56, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/295822703/
+
+Welcome to OWASP Oslo September meetup. Special thanks to venue and food sponsor Visma.
+
+First presentation:
+Test Driven Application Security - Tobias Ahnoff and Martin Altenstedt
+
+Most penetration tests find vulnerabilities present in the OWASP TOP 10 lists. Many originate from unclear non-functional requirements and a lack of tests with security in mind. This presentation will demonstrate a test-driven approach to application security and show how we can write automated tests to prove that our defenses work as expected. Demos will be in C#, for an API in ASP.NET Core 7.
+
+Target audience
+All concerned with building secure applications. The demos are in C#, it is good to have a basic understanding of C# and unit testing, but the concepts and security best practices relevant regardless of programming background and level.
+
+Tobias Ahnoff - Application security specialist at Omegapoint
+
+Tobias Ahnoff is an experienced .NET developer and architect with focus on application security. He specializes in implementing authentication flows and authorization for web applications and APIs that manage sensitive data in the bank, finance, and health sectors. He performs security reviews and penetration tests as part of Omegapoint Cybersecurity Gothenburg, a group of experts in application security.
+
+Martin Altenstedt - Application security specialist at Omegapoint
+
+Martin Altenstedt is a software developer and architect with 25 years of experience in Sweden's IT industry. He specializes in being able to take part in both the development and management of software. He is part of Omegapoint Cybersecurity Gothenburg, a group of experts in application security, and has developed several courses in secure application development and gives presentations on application development and security.
+
+Second presentation:
+Post-Quantum Cryptography 101 - aka. The end of the world as we know it - Stian Svedenborg
+
+You might have heard that the advent of Quantum Computers heralds the end of commonly used cryptography, but what does that mean, and why does it concern you?
+In this talk, I will help answer some of these questions. You will learn what a Quantum Computer is, why they are such a bad thing for cryptography, and what you should do about it.
+
+Target audience
+The talk does not require any prior knowledge, but some points will be lost to non-technical participants.
+Developers, Tech Leads and Architects will get the most out of the talk, but the content is adapted to a varied audience so managers of technology businesses would also benefit.
+
+Stian Svedenborg
+
+Stian is a security enthusiast with a passion for cryptography. He graduated from NTNU in 2014 specializing in cryptography and spent a number of years as a developer. He has entered the eID space as the Security Architect for BankID.
+
+
+### 2023-06-29, 17:00 - 19:00
+
+**June meetup**
+
+**Location:** Blank, Torggata 15, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/294176472/
+
+Blank is the sponsor of this meetup! Thank you!
+
+Agenda:
+
+17:00-17:30 : Food
+17:30-17:50 : How to get pwned by npm packages and weak settings in GitHub Actions - Erlend Åmdal
+18:00-18:45 : Open Policy Agent in-depth - Anders Eknert
+
+How to get pwned by npm packages and weak settings in GitHub Actions - Erlend Åmdal
+
+Do you know if your GitHub Actions workflows are secure? I will demonstrate a proof of concept of a supply chain attack that exploits weak security settings in a typical GitHub Actions workflow to do things you might not expect an npm package to be able to do, followed by a presentation of simple methods to prevent this kind of attack. Due to Action's tight integration with the rest of the GitHub platform, the attack can easily target a repository's contents and metadata, including the issue tracker, pull requests and GitHub Packages. If you value the content on your issue tracker or publish to GitHub Packages and are curious about the security of GitHub Actions, this presentation might prove interesting and useful.
+
+Erlend Åmdal is a software development consultant at Blank with a few years of industry experience. He is a passionate developer who strives for secure software. Having worked with various customers ranging from reMarkable to Autodesk, Erlend has been involved with several organizations depending on GitHub Actions and npm packages for their CI/CD, and knows a thing or two about securing this dependency.
+
+Open Policy Agent in-depth - Anders Eknert
+
+Should user Alice be allowed to read credit reports? Should a cloud compute instance be deployable without basic security configuration in place? Should service X be allowed to query the database?
+Policy defines the rules of our systems, but how do we ensure our policies are enforced consistently in increasingly distributed and diverse tech stacks?
+In this technical talk we’ll explore the benefits of decoupling policy from our applications, deployment pipelines and platforms, and how Open Policy Agent (OPA) and its policy language Rego works to unify policy enforcement across the whole stack.
+
+Anders Eknert is a developer advocate at Styra with a long background in software development, security and identity systems in primarily distributed environments. When not in front of his computer he enjoys watching football, cooking and Belgian beers.
+
+
+### 2023-05-08, 17:00 - 19:00
+
+**May meeting - API Security**
+
+**Location:** Vipps AS, Dronning Eufemias Gate 42, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/293025797/
+
+Big thanks to Vipps for sponsoring the event
+
+17:00 Food and mingle
+
+17:30 Security at high speed - How Vipps secures their APIs (40min) - Nora Tomas
+
+From the outside, login systems can seem very simple. In the Vipps app, for example, you just use biometrics (or a PIN code) and you're in with a blink of an eye! But how much work goes into creating such a system? What actually happens if someone steals my Vipps PIN code? And why doesn't Vipps just have a "login with Facebook" button? You'll get the answers to these questions in this presentation. We'll cover everything from the EU directive PSD2 to how to practically secure APIs so that the next time you log in to Vipps, you'll know what's happening behind the scenes!
+
+Nora Tomas
+
+Nora is a developer and security lead for the User Security team at Vipps MobilePay. She is involved in developing Vipps MobilePay's authentication systems. With a passion for both security and programming, Nora is interested in how to develop at DevOps speed while still keeping the systems secure
+
+
+18:15 npm provenance (10min) - Erlend Oftedal
+
+Introduction to the recent supply chain additions added to npmjs.
+
+
+### 2023-03-23, 17:00 - 19:00
+
+**"Defendable Products" and "Opera: Five Years of Championship"**
+
+**Location:** Finn.no, Grensen 5-7, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/291637400/
+
+Talk 1: Defendable Products
+How do you improve security in products? This talk will walk you through what we have done in Schibsted the last three years to improve security in our products (e.g. Application Security and Cloud Security). From guiding principles, training package for developers, risk identification and escalation processes to introducing technical tools like SAST, DAST, CSPM and others. We wrap up with mistakes we made and our road ahead.
+
+Ståle Pettersen (@kozmic / infosec.exchange/@kozmic) is leading the Product & Application Security team within Schibsted that focuses on cloud security and application security. He has 15 years experience as a developer and a security enthusiast with main focus on application security and cloud security.
+
+Talk 2: Opera: Five Years of Championship
+For the last five years, we have successfully run the security champions program at Opera. During this time, we learned a lot about the advantages and constraints of this model, applied it at scale (with more than 40 champions working in parallel), and improved it with the growing maturity of our processes.
+
+Michael Markevich (LinkedIn)
+
+With more than twenty years of experience as a cybersecurity and digital trust expert, Michael loves to explore new technologies, mentor young security professionals, and do occasional research and hands-on work. Michael started his career as a system administrator at a university campus, then worked as a penetration tester, senior IT auditor, and information security manager. Currently, Michael serves as security advisor for DHIS2, the world’s largest HMIS platform used in more than 70 countries, and leads the security team at Opera, a browser vendor and internet technology company with more than 320
+
+This meet-up is sponsored by Schibsted. We appreciate their support!
+
+If you want to become a sponsor for an OWASP meet-up, contact oslo-leaders@owasp.org.
+
+### 2023-02-28, 18:00 - 19:00
+
+**Purple is the New Black: Modern Approaches to Application Security**
+
+**Location:** Online
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/291636535/
+
+Gone are the days when breaches were rare and security could safely be put low on the priority list; product security is now a customer demand and cyber crime has reached epic proportions. Our idolization of hackers, penetration testing and ‘breaking’ has not resulted in secure software for our industry, only egos, stereotypes and unaffordable security models. Modern application security approaches need to address both offensive (red team) and defensive (blue team) approaches, as well as continuous learning and advocacy for developers. This means Purple Team. This talk will explore how to combine defence, offence, automation, empathy and continuous learning, all without the requirement of ever wearing a hoodie. The future of security is PURPLE.
+
+Tanya Janca
+
+Tanya Janca, also known as SheHacksPurple, is the best-selling author of ‘Alice and Bob Learn Application Security’. She is also the founder of We Hack Purple, an online learning community that revolves around teaching everyone to create secure software. Tanya has been coding and working in IT for over twenty five years, won countless awards, and has been everywhere from public service to tech giants, writing software, leading communities, founding companies and ‘securing all the things’. She is an award-winning public speaker, active blogger & podcaster and has delivered hundreds of talks on 6 continents. She values diversity, inclusion, and kindness, which shines through in her countless initiatives.
+
+Advisor: Nord VPN, Cloud Defense, Aiya Corp
+Faculty: IANs Research
+Founder: We Hack Purple, OWASP DevSlop, #CyberMentoringMonday, WoSEC
+
+
+### 2023-01-17, 18:00 - 20:00
+
+**Tune your Toolbox for Velocity and Value - Josh Grossman**
+
+**Location:** Rebel, Universitetsgata 2, Oslo
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/290761822/
+
+We will be at Exposalen at Rebel, and then those who want can join for burgers/beer at Skråplanet (also at Rebel).
+
+Tune your Toolbox for Velocity and Value
+You bought the application security tools, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
+If you are involved in using automated scanners, such as SAST, DAST or SCA tools, in your organization, these may be familiar feelings to you.
+In this talk, I will give you ideas on how to streamline your implementation and automation to focus on what matters most. We’ll also discuss what to consider when designing the manual processes and tasks around the automation so that you get more value in less time.
+You will leave with a much better understanding of these security tools as well as ideas for improving processes and adding value that you can take and apply at your own organizations.
+
+Speaker: Josh Grossman
+
+Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time, he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA.
+He has provided application security advice and support to companies ranging from multi-national software development organizations, Fortune 500 companies as well as early and mid-stage start-ups. This has also led him to work, speak and deliver training both locally and worldwide.
+He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time, he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board
+
+### 2022-09-15, 18:00 - 19:30
+
+**Virtual meeting: Are we Secure?**
+
+**Location:** Online
+
+**Meetup event:** https://www.meetup.com/owasp-oslo/events/287853653/
+
+Are we Secure?
+
+We all trust software with the most important aspects of our life… but it’s a blind trust with virtually no justification. Actually, by almost any measure, application security has been failing for 20 years. Software is still riddled with vulnerabilities and gets attacked thousands of times a month – mostly undetected. Yet instead of trying different approaches, we mostly keep pushing the same futile and expensive practices harder. In this talk, we’ll discuss why the underlying asymmetric information problem in the software market makes it impossible to make progress. And we’ll talk about how we can escape this trap, change the software market, and make software trustworthy for everyone.
+
+Jeff Williams - CTO of Contrast Security and OWASP Co-Founder
+
+Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.
 
 ### 2022-08-29 - 2022-08-31
 
-[2022-08-29 - 2022-08-31 - OWASP Track at Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no/). 3 day conference where OWASP Oslo had a 1 day track with 8 talks.
+[2022-08-29 - 2022-08-31 - OWASP Track at Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no/).
 
-### 2022-09-15 18:00 
+3 day conference where OWASP Oslo had a 1 day track with 8 talks.
 
-[2022-09-15 18:00 - Virtual: Are we secure? - Jeff Williams](https://www.meetup.com/owasp-oslo/events/287853653/)
+### 2022-03-29, 17:00 - 19:00
+
+**Virtual event: Where Security meets Forensics**
+
+**Location:** Online
+
+**Meetup event:** https://www.meetup.com/OWASP-Oslo/events/284603583/
+
+This event features an intersection between digital forensics and security. We have two speakers, one a seasoned digital forensic practitioner, and one a leading figure in OWASP and DevOps. The event will spark a conversation between digital forensics and secure application development.
+
+Speaker 1: Emlyn Butterfield - Noroff University College DFIR
+
+Emlyn Butterfield is the Programme Lead for Digital Forensics at Noroff University College, following a spell of time at Leeds Beckett University as their Course Director for Digital Forensics. He is also an experienced practitioner, working with local and international law enforcement agencies, acting as an expert witness in both defence and prosecution capacities. He has authored several articles including the teaching of digital forensics and cybersecurity. Emlyn is experienced in the development and delivery of undergraduate and postgraduate awards across, both for onsite and online delivery. Emlyn's experience brings together the worlds of academia and industry, brining passion to his teaching for future DFIR graduates. His research focuses upon the analysis of applications and data from unknown sources, utilising this within teaching and delivery to student. Emlyn was also the co-founder of BSides Leeds and is developing coding classes for students within Kristiansand, Norway, for the next generation of techies.
+
+Speaker 2: Vandana Verma - Security Solutions Architect at Snyk and OWASP Board of directors Chair
+
+Vandana is Security Solutions Architect at Snyk. She is a Chair of the OWASP Global Board of Directors. She leads Diversity Initiatives like InfosecGirls and WoSec. She is also the founder of InfosecKids. She has experience ranging from Application Security to Infrastructure and now dealing with Product Security. She has been Keynote speaker / Speaker / Trainer at various public events including Global OWASP AppSec events to BlackHat events to regional events like BSides events in India.
+Vandana is a member of the Black Hat Asia Review Board as well as multiple other conferences including Grace Hopper India, OWASP AppSec USA to name a few. She is also one of the organiser of BSides Delhi.
+She has been the recipient of multiple prestigious awards like Cyber Security Woman of the Year Award 2020 by Cyber Sec Awards, Application Security Influencer 2020 by Whitesource, Global cybersecurity influencer among IFSEC Global's "Top Influencers in Security and Fire" Category for 2019, Cybersecurity Women of the year award by Women Cyberjutsu Society in the Category “Secure Coder”. She has also been listed as one of the top women leaders in this field of technology and cybersecurity in India by Instasafe. She has trained over 10000+ Diverse candidates in cybersecurity.
+The talks and abstracts will be published soon. Once you have registered you will receive the Zoom information.
+
 
 ### 2022-01-13, 17:00 - 19:00
 

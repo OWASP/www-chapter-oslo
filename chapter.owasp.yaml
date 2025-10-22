@@ -1,0 +1,39 @@
+community:
+  - name: chapter-oslo
+    platform: slack
+    url: https://owasp.slack.com/archives/C2CRL360N
+    description: Formerly known as the OWASP Norway chapter
+leaders:
+  - name: Erlend Oftedal
+    email: erlend.oftedal@owasp.org
+    github: erlend-oftedal-adsk
+  - name: Ståle Pettersen
+    email: stale.pettersen@owasp.org
+    github: kozmic
+  - name: Eivind Arvesen
+    email: eivind.arvesen@owasp.org
+    github: EivindArvesen
+  - name: Jostein Tveit
+    email: jostein.tveit@owasp.org
+    github: josteitv
+  - name: Knut Vardenær
+    email: knut.vardenaer@owasp.org
+location:
+  country: Norway
+  country_code: NO
+  region: Oslo
+  city: Oslo
+  postal_code: '0010'
+  latitude: 59.9110251
+  longitude: 10.7531379
+meetup_group: owasp-oslo
+name: OWASP Oslo
+repositories:
+  - name: www-chapter-oslo
+    url: https://github.com/OWASP/www-chapter-oslo
+    description: OWASP Foundation Web Repository
+tags:
+  - norway
+  - oslo
+  - custom-tag-1
+website: https://owasp.org/www-chapter-oslo
